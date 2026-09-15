@@ -1,0 +1,27 @@
+# Capture (local only — never publish)
+*.mp4
+*.wav
+*.srt
+_probe/
+knowledge/sources/
+knowledge/_meta/models/
+*.bin
+asr.stderr.log
+ocr.json
+ocr.md
+pack.md
+transcript.json
+transcript.md
+transcript.srt
+**/keyframes/
+
+__pycache__/
+*.pyc
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.log

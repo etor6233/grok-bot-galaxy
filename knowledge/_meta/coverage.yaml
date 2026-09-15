@@ -1,0 +1,26 @@
+machine_complete: true
+aligned_complete: true
+distilled: true
+status:
+  "01": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "02": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "03": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "04": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "05": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "06": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "07": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "08": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "09": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "10": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "11": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "12": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "13": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "14": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "15": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "16": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "17": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  "18": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+notes:
+  - "All 18 timelines pass the four-field contract (Spoken / On screen / Actions / Facts)."
+  - "Whisper Anne-Rita corrected to Amrita in timeline 10."
+  - "Later live files are out of scope until the user drops them."

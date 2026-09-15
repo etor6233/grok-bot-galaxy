@@ -1,0 +1,108 @@
+event:
+  name: Grok Bot Galaxy
+  day: 1
+  date: 2026-09-15
+  language: en
+  capture: Bandicam livestream
+  resolution: 1920x1080
+  fps: 30
+  video_codec: h264
+  audio_codec: aac
+  audio_rate: 48000
+  audio_channels: 2
+clips:
+  - id: "01"
+    file: "1-Bienvenida- 2026-09-15.mp4"
+    module: bienvenida
+    duration: "00:10:00"
+    recorded_end: "2026-09-15T12:42:35"
+  - id: "02"
+    file: "2-Bienvenida- 2026-09-15.mp4"
+    module: bienvenida
+    duration: "00:10:00"
+    recorded_end: "2026-09-15T12:52:39"
+  - id: "03"
+    file: "3-Bienvenida-Grok Bot 101- 2026-09-15.mp4"
+    module: bienvenida-to-101
+    duration: "00:10:00"
+    recorded_end: "2026-09-15T13:02:42"
+  - id: "04"
+    file: "4-Grok Bot 101- 2026-09-15.mp4"
+    module: grok-bot-101
+    duration: "00:09:35"
+    recorded_end: "2026-09-15T13:12:19"
+  - id: "05"
+    file: "5-Grok Bot 101 (3 minutos de gap) 2026-09-15.mp4"
+    module: grok-bot-101
+    duration: "00:10:00"
+    recorded_end: "2026-09-15T13:22:21"
+    notes: "Filename flags a 3-minute content gap."
+  - id: "06"
+    file: "6-Grok Bot 101- 2026-09-15.mp4"
+    module: grok-bot-101
+    duration: "00:09:59"
+    recorded_end: "2026-09-15T13:35:04"
+  - id: "07"
+    file: "7-Grok Bot 101- 2026-09-15.mp4"
+    module: grok-bot-101
+    duration: "00:09:59"
+    recorded_end: "2026-09-15T13:45:05"
+  - id: "08"
+    file: "8-Grok Bot 101- 2026-09-15.mp4"
+    module: grok-bot-101
+    duration: "00:09:59"
+    recorded_end: "2026-09-15T13:55:06"
+  - id: "09"
+    file: "9-Grok Bot 101- 2026-09-15.mp4"
+    module: grok-bot-101
+    duration: "00:07:28"
+    recorded_end: "2026-09-15T14:02:35"
+  - id: "10"
+    file: "10-Engineering- 2026-09-15.mp4"
+    module: engineering
+    duration: "00:09:59"
+    recorded_end: "2026-09-15T14:13:28"
+  - id: "11"
+    file: "11-Engineering- 2026-09-15.mp4"
+    module: engineering
+    duration: "00:09:59"
+    recorded_end: "2026-09-15T14:23:28"
+  - id: "12"
+    file: "12-Engineering- 2026-09-15.mp4"
+    module: engineering
+    duration: "00:10:00"
+    recorded_end: "2026-09-15T14:33:29"
+  - id: "13"
+    file: "13-Engineering- 2026-09-15.mp4"
+    module: engineering
+    duration: "00:09:59"
+    recorded_end: "2026-09-15T14:43:53"
+  - id: "14"
+    file: "14-Engineering- 2026-09-15.mp4"
+    module: engineering
+    duration: "00:09:59"
+    recorded_end: "2026-09-15T14:53:53"
+  - id: "15"
+    file: "15-Engineering- 2026-09-15.mp4"
+    module: engineering
+    duration: "00:10:00"
+    recorded_end: "2026-09-15T15:03:54"
+  - id: "16"
+    file: "16-Engineering- 2026-09-15.mp4"
+    module: engineering
+    duration: "00:06:37"
+    recorded_end: "2026-09-15T15:10:35"
+  - id: "17"
+    file: "17-Engineering- 2026-09-15.mp4"
+    module: engineering
+    duration: "00:09:59"
+    recorded_end: "2026-09-15T15:20:37"
+  - id: "18"
+    file: "18-Engineering- 2026-09-15.mp4"
+    module: engineering
+    duration: "00:02:50"
+    recorded_end: "2026-09-15T15:24:30"
+modules:
+  bienvenida: {clips: ["01", "02", "03"], title: "Bienvenida"}
+  grok-bot-101: {clips: ["03", "04", "05", "06", "07", "08", "09"], title: "Grok Bot 101"}
+  engineering: {clips: ["10", "11", "12", "13", "14", "15", "16", "17", "18"], title: "Engineering"}

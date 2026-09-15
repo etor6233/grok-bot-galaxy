@@ -1,0 +1,46 @@
+# Grok Bot Galaxy — llms.txt
+# Unofficial Day 1 notes (clips 01–18). Maintainer: etor6233.
+# Agents: read this file first, then knowledge/INDEX.md. Do not invent.
+
+## Product
+Grok Bot = persistent named teammates in a chat UI (iMessage-like), not a new chat per task.
+Three decisions: (1) teammate paradigm (2) each bot has an isolated Linux VM computer (3) everything runs in the cloud 24/7.
+Maturity curve: Ask/Chatbots → Do a task/Copilots → Delegate outcome/Bot → Staff function/Team of Bots.
+
+## 101 demo (Amrita) — Data Dan + Slide Sonya + Email Ethan
+Create: sidebar + → name (job inferred from name) → chips → type or voice a task.
+Computer: top-right; isolated per bot; drives Google Forms/Slides/etc. without MCP.
+Teach a task: you drive the VM → Stop → becomes a Private skill.
+Auto-review: Settings → General; Ask first wins; Allow once / Deny on cards.
+A2A: mention another bot, or Chief of Staff “always delegate”; group chat = visibility.
+Manager bot: routine e.g. every 2h collect blockers.
+Share as template (header). Duplicate = same persona, empty memory.
+Marketplace: public featured (Lauren Tan dr eggbot, Lenny Overheard, Claire Vo Tradbot, Eric Zakariasson Projects Manager) + team plugins.
+Secrets/1Password: modal in Grok Bot, not typed on the VM; stored in product, not shown to SpaceX.
+Memory: S3, long-lived, steerable; you can tell a bot to forget / stop delegating.
+
+## Integrations named on stage
+Hex, Gmail, LinkedIn, Salesforce, Sumble, Google Sheet/Drive/Docs/Forms/Slides, Qualtrics, Slack, Notion, X MCP, p-stack, Vercel, figma-mcp, Databricks, 1Password, Stripe/Link card on a bot.
+
+## Engineering live company (Ship by Thursday)
+Humans: Matt Palmer CEO (@mattyp), Lauren Tan CTO / chief poteto officer (@poteto), Roshan product, guest Peter Yang.
+Bots: steve (chief of staff), grokpot (prototyper HTML in-app), tater (eng + Cursor cloud agents), Dr. Eggbot (factory), Marky McMarkface (research), Pixel, Marketing, Ops, Prioritizer.
+Rule clip 18: no PRs, ship to main. Empty repo → cloud agent bounces; seed a commit first.
+Idea: pop-up platform + dogfood a pop-up. Repo shipbythursday/popup. Hold at end of 18 — factory creation not in this batch.
+
+## Contest
+Quote official X post + bot description + shared template link; follow @Grok and @Bot; deadline 29 Sep. Prize: Starbase / Starship; runners-up Hawthorne. Sessions: x.ai/galaxy.
+
+## Gaps
+Clip 05 “3 min gap” is a hole BETWEEN 05 and 06 (~2:44), not black inside the file.
+Clip 18 ends on hold / technical difficulties.
+This repo does not include later videos until they are ingested.
+
+## File map
+knowledge/INDEX.md
+knowledge/canon/explanation/why-grok-bot.md
+knowledge/canon/how-to/
+knowledge/canon/reference/
+knowledge/canon/glossary.md
+knowledge/timelines/01.md … 18.md
+knowledge/session/
