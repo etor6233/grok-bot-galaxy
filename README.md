@@ -4,7 +4,7 @@
 
 An unofficial field guide to Grok Bot Galaxy, **15-17 September 2026**: persistent bots, verified engineering, product management, sales, support, operations and marketing. The library covers **157 recordings across three days**, approximately **24 h 16 min of captured material**, including retransmissions. It preserves the demos' successes, failures and unresolved questions.
 
-[Start with a task](knowledge/ROUTES.md) · [Complete index](knowledge/INDEX.md) · [Agent entrypoint](llms.txt) · [Timeline evidence](knowledge/timelines/INDEX.md) · [Coverage](knowledge/_meta/coverage.yaml)
+[Start with a task](knowledge/ROUTES.md) · [Complete index](knowledge/INDEX.md) · [Diagrams](knowledge/DIAGRAMS.md) · [Agent entrypoint](llms.txt) · [Timeline evidence](knowledge/timelines/INDEX.md) · [Coverage](knowledge/_meta/coverage.yaml)
 
 Maintained by [etor6233](https://github.com/etor6233). Independent notes; not affiliated with xAI. The recordings describe the product at the event, not its current specification. **Para empezar:** elegí una tarea en la [guía de navegación](knowledge/ROUTES.md); las notas conservan el inglés de las sesiones para mantener nombres y citas consistentes.
 

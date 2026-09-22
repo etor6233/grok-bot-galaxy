@@ -15,6 +15,14 @@ Defaults to canon. Use --kind timelines for timestamps and exact evidence.
 knowledge/catalog.json contains paths, categories, word counts and source clips,
 not duplicated document bodies. Retrieval needs no external API.
 
+## Apply with an agent
+The reader must be able to fetch these Markdown files or access a local copy.
+Reading the guide does not install bots, connectors, credentials or routines.
+For a chosen job, supply your objective, business rules, source data, available
+tools, output destination and approval boundaries. Map the guide's roles to
+your actual runtime and verify access before executing. Preserve unsupported
+steps as blockers instead of claiming they ran. Diagrams: knowledge/DIAGRAMS.md.
+
 ## Product model
 Grok Bot is presented as persistent named teammates. Give a bot a role,
 context, connected tools, boundaries and an outcome; return to the same bot.

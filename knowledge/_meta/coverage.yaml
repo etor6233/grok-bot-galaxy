@@ -2430,6 +2430,7 @@ status:
     distilled: done
     reviewed_on: '2026-09-22'
     canon_sources:
+    - knowledge/canon/glossary.md
     - knowledge/canon/how-to/run-post-sales-desk.md
     - knowledge/canon/reference/day-3-capability-boundaries.md
     distillation_disposition: canon-linked

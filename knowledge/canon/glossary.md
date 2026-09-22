@@ -54,7 +54,12 @@ The table above preserves Day 1 terminology. Architecture wording is not settled
 | Juno / Ondes | PM and engineering bots in the Lead Deck case study | [116](../timelines/116.md) |
 | Lead Deck | Swipe-style CRM lead-review tool with rep-specific identity and workflow ownership | [116](../timelines/116.md) |
 | ICP | Ideal customer profile; a hypothesis to ground research and outreach | [132](../timelines/132.md), [134](../timelines/134.md) |
-| Gus / Frankie / Franny | Post-sales coordinator, solution-engineering and adoption specialists | [135](../timelines/135.md), [136](../timelines/136.md) |
+| Gus | Post-sales chief of staff; coordinates specialists and returns one consolidated pack | [135](../timelines/135.md) |
+| Frankie | Follow-up specialist; prepares follow-up work from account/call context | [135](../timelines/135.md), [136](../timelines/136.md) |
+| Franny Form | Forms specialist; builds the ROI questionnaire in Google Forms | [136](../timelines/136.md), [137](../timelines/137.md) |
+| Wally | Drafting specialist for the user's writing voice | [135](../timelines/135.md) |
+| Trudy | Sourced answers from internal documents | [135](../timelines/135.md) |
+| Scout | Internal updates radar | [135](../timelines/135.md) |
 | Thursday Arena | Public game built during the event; game rules are distinct from Grok Bot capabilities | [122](../timelines/122.md), [155](../timelines/155.md) |
 | Cupcake | Earlier project/code name retained in repositories and feedback channels | [154](../timelines/154.md) |
 | Bake / Play / Review / Land | Named roles in one engineering verification/merge loop, not required product roles | [157](../timelines/157.md) |

@@ -2,6 +2,8 @@
 
 Evidence: Day 3, 2026-09-17. Josh Kim used the **X-Air** demo brand. The displayed campaign results are session examples, not independently verified business outcomes.
 
+**Before starting (editorial clarification, 2026-09-22):** provide the product/site and approved claims, access to the shared Docs/Sheets, the relevant Google Ads account and campaign data, and a marketing repository plus development/preview tools for the website lane. Verify the analyst's data-reading access separately from permission to create or change campaigns. Repository access does not itself authorize deployment, merging or ad spend; carry the human decision gates below into the actual setup. These connections were already configured in the demo; reading this guide does not provision them. [149, 00:01:40–00:05:47](../../timelines/149.md), [150, 00:00:00–00:01:19](../../timelines/150.md).
+
 1. **Market Researcher:** study the product site, competitors and positioning gaps. Ask for the product/market read, comparative evidence and possible angles.
 2. **Product Marketer:** get the research directly from the other bot. Draft positioning, audience, one-liners, value statements and examples across a few surfaces in a shared document.
 3. **Human review:** comment in the Google Doc, then ask the bot to incorporate the comments. The demo's Google Docs connection let it retrieve that feedback and revise the brief.

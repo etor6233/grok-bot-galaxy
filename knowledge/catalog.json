@@ -44,7 +44,7 @@
       "path": "knowledge/canon/glossary.md",
       "title": "Glossary",
       "kind": "canon",
-      "words": 844,
+      "words": 910,
       "category": "reference",
       "clips": [
         "068",
@@ -57,6 +57,7 @@
         "134",
         "135",
         "136",
+        "137",
         "152",
         "153",
         "154",
@@ -287,7 +288,7 @@
       "path": "knowledge/canon/how-to/orchestrate-marketing-campaign.md",
       "title": "Orchestrate a marketing campaign across specialist bots",
       "kind": "canon",
-      "words": 520,
+      "words": 627,
       "category": "how-to",
       "clips": [
         "148",
