@@ -2,6 +2,8 @@
 
 Source: clips 05–06.
 
+**2026-09-22 editorial note:** this preserves the Day 1 demo. Two-way voice, described below as future rollout, was later demonstrated in [Day 3 clip 152, 00:06:40–00:08:30](../../timelines/152.md). Neither voice nor delegation bypasses configured approval rules. [Day 1 evidence](../../timelines/05.md), [continued demo](../../timelines/06.md).
+
 Bots **ask for approval** before some actions. Enterprises use this to control what bots may do.
 
 Examples spoken:

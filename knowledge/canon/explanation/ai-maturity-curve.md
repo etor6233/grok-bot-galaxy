@@ -12,3 +12,5 @@ Grok Bot is positioned at the top of a four-step curve, not as a chatbot.
 | 4 | Staff function (Team of Bots) | A team of bots runs a function (GTM, eng, admin, …) |
 
 Product implication (spoken in the same module): you do **not** open a new chat per task. You create a **bot for a job**, return to it, and it keeps memory.
+
+Evidence: [04](../../timelines/04.md).

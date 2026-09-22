@@ -10,4 +10,4 @@ Live demo bots that work together on one project (audience participates without 
 | Slide Sonya | slides |
 | Email Ethan | email |
 
-Register for the rest of the week: **x.ai/galaxy** (GTM, engineering, marketing, admins).
+Historical session invitation: **x.ai/galaxy** (GTM, engineering, marketing, admins). This is an event note, not a current registration instruction. [Clip 04](../../timelines/04.md).

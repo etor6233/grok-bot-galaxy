@@ -29,3 +29,37 @@ Terms as used on stage and on screen, Grok Bot Galaxy Day 1.
 | Ship by Thursday | Live company / GitHub org for the 72-hour build | 03, 10 |
 | Potato / @poteto | Lauren | 01 |
 | AI Maturity Curve | Chatbots → Copilots → Bot → Team of Bots | 03–04 |
+| Hashbrown | Lauren's reviewer bot (reviews PRs that tater opens) | 022 |
+| pstack repo plugin | pstack installed at project scope via `.cursor/settings.json`; cloud agents/automations in the repo get `/poteto-mode` without per-user installs | 022 |
+| Cursor automation | Trigger-based automation on Cursor Cloud Agents (e.g. new PR posted to Slack → automation reviews/merges) | 022 |
+| Repo AGENTS.md | Repo file routing non-trivial work through `/poteto-mode` (poteto-agent subagent; report failure rather than silently degrade) | 022 |
+| Fleet board | Notion board coordinating a bot fleet (schema: Task name, Owner, Stage, PRs, Cloud agent, Last commit) | 024–025 |
+| CLEAN ladder | Stage ladder Working → Watching 1/3 → 2/3 → 3/3 → Ready; 4 consecutive CLEAN ticks; Done = merged only | 025 |
+| P0 escalation | Routine: bot checks cloud agents every 5 minutes and interrupts off-track/needless tool calls | 025–026 |
+| Bot-to-bot onboarding | An existing bot renames and briefs a new bot with fleet rules; new bot absorbs into memory and negotiates mandate conflicts | 025 |
+| FlyLo | Lingxi Li's demo airline product (flylo-air.com / book / crew); repo flylo-air/booking-frontend | 024–025 |
+| Nightly audit | Overnight code-quality bot (Marketplace): research whole tree, one cleanup PR per area, ~4 a.m. | 024–025 |
+| Bugbot | Bot in Lingxi's workspace that owns bug threads (Bugbot/Approval loops on PRs) | 024–025 |
+| thursday repo | Ship by Thursday repo `shipbythursday/thursday` (renamed from `popup`, clip 022) | 022 |
+
+## Days 2–3 additions (editorial review 2026-09-22)
+
+The table above preserves Day 1 terminology. Architecture wording is not settled: see [memory and computer limits](reference/day-1-memory-and-computer-limits.md).
+
+| Term | Meaning in this event | Evidence |
+|---|---|---|
+| Sherlock | Sales-engineering bot grounding technical customer answers in a repository | [068](../timelines/068.md) |
+| SDR | Sales development representative; prospect research and outbound workflows | [096](../timelines/096.md) |
+| RevOps / MarOps | Revenue / marketing operations; human-owned business processes supported by bots | [113](../timelines/113.md), [119](../timelines/119.md) |
+| Juno / Ondes | PM and engineering bots in the Lead Deck case study | [116](../timelines/116.md) |
+| Lead Deck | Swipe-style CRM lead-review tool with rep-specific identity and workflow ownership | [116](../timelines/116.md) |
+| ICP | Ideal customer profile; a hypothesis to ground research and outreach | [132](../timelines/132.md), [134](../timelines/134.md) |
+| Gus / Frankie / Franny | Post-sales coordinator, solution-engineering and adoption specialists | [135](../timelines/135.md), [136](../timelines/136.md) |
+| Thursday Arena | Public game built during the event; game rules are distinct from Grok Bot capabilities | [122](../timelines/122.md), [155](../timelines/155.md) |
+| Cupcake | Earlier project/code name retained in repositories and feedback channels | [154](../timelines/154.md) |
+| Bake / Play / Review / Land | Named roles in one engineering verification/merge loop, not required product roles | [157](../timelines/157.md) |
+| Mash | Team's potato-themed word for merging a PR | [157](../timelines/157.md) |
+| Ghost | Saved opponent board used in Arena's rated play; unrelated to a Grok Bot runtime instance | [155](../timelines/155.md), [156](../timelines/156.md) |
+| Voice chat | Two-way bot call demonstrated on Day 3; distinct from earlier voice dictation and the xAI telephone agent | [152](../timelines/152.md), [154](../timelines/154.md) |
+| llms.txt / rules.md | Compact entrypoint and Markdown game rules shown for agent consumption | [155](../timelines/155.md) |
+| Done / merged / verified | Distinct completion claims that must be checked against their evidence | [153](../timelines/153.md), [157](../timelines/157.md) |

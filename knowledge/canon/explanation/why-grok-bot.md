@@ -23,3 +23,7 @@ Three decisions that shaped the product (spoken):
 - Set up automations and routines
 
 **Shareable workflows** — “Peng shared Kenny with you” — “An operations bot that coordinates work and surfaces decisions that need your approval.”
+
+Evidence: [04](../../timelines/04.md).
+
+**2026-09-22 editorial note:** computer isolation and cloud architecture are presenter descriptions. Later recorded wording differs; see [Day1 evidence limits](../reference/day-1-memory-and-computer-limits.md).

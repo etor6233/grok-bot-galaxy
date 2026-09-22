@@ -1,0 +1,10 @@
+# Optional local capture pipeline; not needed to read the published knowledge.
+# Install separately: python -m pip install -r requirements-capture.txt
+PyYAML>=6.0,<7
+numpy>=1.26,<3
+opencv-python-headless>=4.8,<5
+
+# External executables are installed separately, discovered via PATH or:
+# GBG_FFPROBE, GBG_FFMPEG, GBG_TESSERACT.
+# ASR additionally requires FFmpeg's whisper filter and a local model configured
+# by GBG_WHISPER_MODEL; use GBG_WHISPER_USE_GPU=0 for CPU execution.

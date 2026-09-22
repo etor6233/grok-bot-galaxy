@@ -2,25 +2,2844 @@ machine_complete: true
 aligned_complete: true
 distilled: true
 status:
-  "01": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "02": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "03": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "04": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "05": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "06": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "07": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "08": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "09": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "10": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "11": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "12": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "13": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "14": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "15": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "16": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "17": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
-  "18": {scenes: done, ocr: done, asr: done, aligned: done, distilled: done}
+  '01':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  '02':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/stripe-link-card.md
+    distillation_disposition: canon-linked
+  '03':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  '04':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/explanation/ai-maturity-curve.md
+    - knowledge/canon/explanation/why-grok-bot.md
+    - knowledge/canon/reference/common-use-cases.md
+    - knowledge/canon/reference/ui-anatomy.md
+    - knowledge/canon/tutorials/meet-the-101-team.md
+    distillation_disposition: canon-linked
+  '05':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/approvals-and-rules.md
+    - knowledge/canon/how-to/create-a-bot.md
+    - knowledge/canon/how-to/teach-a-task.md
+    - knowledge/canon/how-to/use-the-computer.md
+    - knowledge/canon/reference/day-1-memory-and-computer-limits.md
+    distillation_disposition: canon-linked
+  '06':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/agent-to-agent.md
+    - knowledge/canon/how-to/approvals-and-rules.md
+    - knowledge/canon/how-to/share-duplicate-marketplace.md
+    - knowledge/canon/how-to/use-the-computer.md
+    - knowledge/canon/reference/day-1-memory-and-computer-limits.md
+    distillation_disposition: canon-linked
+  '07':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/group-chats-and-sections.md
+    - knowledge/canon/how-to/share-duplicate-marketplace.md
+    - knowledge/canon/how-to/steer-memory.md
+    - knowledge/canon/reference/email-draft-modal.md
+    distillation_disposition: canon-linked
+  08:
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/orchestrator-manager.md
+    distillation_disposition: canon-linked
+  09:
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/share-duplicate-marketplace.md
+    - knowledge/canon/how-to/steer-memory.md
+    - knowledge/canon/reference/secrets-and-1password.md
+    distillation_disposition: canon-linked
+  '10':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/connect-marketplace-and-x.md
+    - knowledge/canon/how-to/hire-bots-as-employees.md
+    - knowledge/canon/reference/engineering-bot-roster.md
+    distillation_disposition: canon-linked
+  '11':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/connect-marketplace-and-x.md
+    - knowledge/canon/how-to/hire-bots-as-employees.md
+    distillation_disposition: canon-linked
+  '12':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/connect-marketplace-and-x.md
+    - knowledge/canon/how-to/hire-bots-as-employees.md
+    distillation_disposition: canon-linked
+  '13':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/connect-marketplace-and-x.md
+    - knowledge/canon/how-to/hire-bots-as-employees.md
+    - knowledge/canon/how-to/ship-with-cloud-agents.md
+    distillation_disposition: canon-linked
+  '14':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/hire-bots-as-employees.md
+    - knowledge/canon/how-to/voice-brief-and-restate.md
+    distillation_disposition: canon-linked
+  '15':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/hire-bots-as-employees.md
+    distillation_disposition: canon-linked
+  '16':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/hire-bots-as-employees.md
+    distillation_disposition: canon-linked
+  '17':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/hire-bots-as-employees.md
+    distillation_disposition: canon-linked
+  '18':
+    scenes: done
+    ocr: done
+    asr: done
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/hire-bots-as-employees.md
+    - knowledge/canon/how-to/ship-with-cloud-agents.md
+    - knowledge/canon/how-to/wire-pr-reviews-into-slack.md
+    - knowledge/canon/reference/day-1-memory-and-computer-limits.md
+    - knowledge/canon/reference/engineering-bot-roster.md
+    distillation_disposition: canon-linked
+  019:
+    scenes: done
+    scenes_n: 29
+    frames: 17953
+    duration_probe: 599.23
+    ocr: done
+    ocr_frames: 29
+    ocr_chars: 10985
+    asr: done
+    asr_words: 2441
+    asr_wpm: 244.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/engineering-bot-roster.md
+    distillation_disposition: canon-linked
+  '020':
+    scenes: done
+    scenes_n: 50
+    frames: 17859
+    duration_probe: 599.93
+    ocr: done
+    ocr_frames: 50
+    ocr_chars: 45183
+    asr: done
+    asr_words: 3028
+    asr_wpm: 302.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/research-and-scope-a-new-business.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '021':
+    scenes: done
+    scenes_n: 31
+    frames: 8862
+    duration_probe: 295.5
+    ocr: done
+    ocr_frames: 31
+    ocr_chars: 30600
+    asr: done
+    asr_words: 1400
+    asr_wpm: 284.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/research-and-scope-a-new-business.md
+    distillation_disposition: canon-linked
+  '022':
+    scenes: done
+    scenes_n: 47
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 47
+    ocr_chars: 26189
+    asr: done
+    asr_words: 2513
+    asr_wpm: 251.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/connect-marketplace-and-x.md
+    - knowledge/canon/how-to/wire-pr-reviews-into-slack.md
+    - knowledge/canon/reference/day-1-memory-and-computer-limits.md
+    - knowledge/canon/reference/engineering-bot-roster.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '023':
+    scenes: done
+    scenes_n: 91
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 91
+    ocr_chars: 6990
+    asr: done
+    asr_words: 2277
+    asr_wpm: 227.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/explanation/why-a-fleet-of-bots.md
+    distillation_disposition: canon-linked
+  '024':
+    scenes: done
+    scenes_n: 253
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 253
+    ocr_chars: 15850
+    asr: done
+    asr_words: 2248
+    asr_wpm: 224.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/escalate-urgent-work-p0.md
+    - knowledge/canon/how-to/onboard-a-new-bot-bot-to-bot.md
+    - knowledge/canon/how-to/run-nightly-code-cleanup.md
+    distillation_disposition: canon-linked
+  '025':
+    scenes: done
+    scenes_n: 83
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 83
+    ocr_chars: 66101
+    asr: done
+    asr_words: 2014
+    asr_wpm: 201.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/explanation/why-a-fleet-of-bots.md
+    - knowledge/canon/how-to/build-and-maintain-verification.md
+    - knowledge/canon/how-to/escalate-urgent-work-p0.md
+    - knowledge/canon/how-to/maintain-a-shared-playbook.md
+    - knowledge/canon/how-to/onboard-a-new-bot-bot-to-bot.md
+    - knowledge/canon/how-to/run-nightly-code-cleanup.md
+    - knowledge/canon/reference/flylo-engineering-fleet.md
+    distillation_disposition: canon-linked
+  '026':
+    scenes: done
+    scenes_n: 74
+    frames: 17999
+    duration_probe: 599.97
+    ocr: done
+    ocr_frames: 74
+    ocr_chars: 89525
+    asr: done
+    asr_words: 2201
+    asr_wpm: 220.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/build-and-maintain-verification.md
+    - knowledge/canon/how-to/escalate-urgent-work-p0.md
+    - knowledge/canon/how-to/maintain-a-shared-playbook.md
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    - knowledge/canon/reference/flylo-engineering-fleet.md
+    distillation_disposition: canon-linked
+  '027':
+    scenes: done
+    scenes_n: 119
+    frames: 17981
+    duration_probe: 599.37
+    ocr: done
+    ocr_frames: 119
+    ocr_chars: 78988
+    asr: done
+    asr_words: 2208
+    asr_wpm: 221.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/build-and-maintain-verification.md
+    - knowledge/canon/how-to/wire-pr-reviews-into-slack.md
+    distillation_disposition: canon-linked
+  028:
+    scenes: done
+    scenes_n: 113
+    frames: 17989
+    duration_probe: 599.63
+    ocr: done
+    ocr_frames: 113
+    ocr_chars: 125230
+    asr: done
+    asr_words: 2270
+    asr_wpm: 227.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/build-and-maintain-verification.md
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    - knowledge/canon/how-to/wire-pr-reviews-into-slack.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  029:
+    scenes: done
+    scenes_n: 68
+    frames: 17985
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 68
+    ocr_chars: 70475
+    asr: done
+    asr_words: 2724
+    asr_wpm: 272.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/research-and-scope-a-new-business.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '030':
+    scenes: done
+    scenes_n: 145
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 145
+    ocr_chars: 127578
+    asr: done
+    asr_words: 2821
+    asr_wpm: 282.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '031':
+    scenes: done
+    scenes_n: 101
+    frames: 17192
+    duration_probe: 573.07
+    ocr: done
+    ocr_frames: 101
+    ocr_chars: 38132
+    asr: done
+    asr_words: 2039
+    asr_wpm: 213.5
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: replay-record
+  '032':
+    scenes: done
+    scenes_n: 201
+    frames: 17785
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 201
+    ocr_chars: 79639
+    asr: done
+    asr_words: 2123
+    asr_wpm: 212.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: replay-record
+  '033':
+    scenes: done
+    scenes_n: 45
+    frames: 17973
+    duration_probe: 599.1
+    ocr: done
+    ocr_frames: 45
+    ocr_chars: 31609
+    asr: done
+    asr_words: 2917
+    asr_wpm: 292.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: replay-record
+  '034':
+    scenes: done
+    scenes_n: 51
+    frames: 16036
+    duration_probe: 534.53
+    ocr: done
+    ocr_frames: 51
+    ocr_chars: 58148
+    asr: done
+    asr_words: 2610
+    asr_wpm: 293.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: replay-record
+  '035':
+    scenes: done
+    scenes_n: 43
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 43
+    ocr_chars: 24622
+    asr: done
+    asr_words: 2504
+    asr_wpm: 250.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: replay-record
+  '036':
+    scenes: done
+    scenes_n: 107
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 107
+    ocr_chars: 8545
+    asr: done
+    asr_words: 2353
+    asr_wpm: 235.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: replay-record
+  '037':
+    scenes: done
+    scenes_n: 122
+    frames: 17979
+    duration_probe: 599.3
+    ocr: done
+    ocr_frames: 122
+    ocr_chars: 37306
+    asr: done
+    asr_words: 2147
+    asr_wpm: 215.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: replay-record
+  038:
+    scenes: done
+    scenes_n: 83
+    frames: 17256
+    duration_probe: 575.2
+    ocr: done
+    ocr_frames: 83
+    ocr_chars: 55764
+    asr: done
+    asr_words: 1903
+    asr_wpm: 198.5
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: replay-record
+  039:
+    scenes: done
+    scenes_n: 90
+    frames: 15611
+    duration_probe: 520.4
+    ocr: done
+    ocr_frames: 90
+    ocr_chars: 88998
+    asr: done
+    asr_words: 1936
+    asr_wpm: 223.2
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: replay-record
+  '040':
+    scenes: done
+    scenes_n: 95
+    frames: 17839
+    duration_probe: 594.63
+    ocr: done
+    ocr_frames: 95
+    ocr_chars: 85614
+    asr: done
+    asr_words: 2359
+    asr_wpm: 238.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: replay-record
+  '041':
+    scenes: done
+    scenes_n: 106
+    frames: 17866
+    duration_probe: 595.53
+    ocr: done
+    ocr_frames: 106
+    ocr_chars: 118161
+    asr: done
+    asr_words: 2291
+    asr_wpm: 230.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: replay-record
+  '042':
+    scenes: done
+    scenes_n: 69
+    frames: 17982
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 69
+    ocr_chars: 70242
+    asr: done
+    asr_words: 2693
+    asr_wpm: 269.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '043':
+    scenes: done
+    scenes_n: 85
+    frames: 15934
+    duration_probe: 594.27
+    ocr: done
+    ocr_frames: 85
+    ocr_chars: 82482
+    asr: done
+    asr_words: 2530
+    asr_wpm: 255.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/build-and-maintain-verification.md
+    - knowledge/canon/how-to/maintain-a-shared-playbook.md
+    - knowledge/canon/how-to/research-and-scope-a-new-business.md
+    - knowledge/canon/how-to/ship-with-cloud-agents.md
+    - knowledge/canon/how-to/wire-pr-reviews-into-slack.md
+    - knowledge/canon/reference/day-1-memory-and-computer-limits.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '044':
+    scenes: done
+    scenes_n: 79
+    frames: 17451
+    duration_probe: 598.87
+    ocr: done
+    ocr_frames: 79
+    ocr_chars: 58341
+    asr: done
+    asr_words: 2522
+    asr_wpm: 252.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '045':
+    scenes: done
+    scenes_n: 146
+    frames: 17993
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 146
+    ocr_chars: 166037
+    asr: done
+    asr_words: 2519
+    asr_wpm: 251.9
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/build-and-maintain-verification.md
+    - knowledge/canon/how-to/maintain-a-shared-playbook.md
+    - knowledge/canon/how-to/research-and-scope-a-new-business.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '046':
+    scenes: done
+    scenes_n: 105
+    frames: 17759
+    duration_probe: 597.9
+    ocr: done
+    ocr_frames: 105
+    ocr_chars: 120794
+    asr: done
+    asr_words: 2538
+    asr_wpm: 254.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/build-and-maintain-verification.md
+    - knowledge/canon/how-to/plan-an-event-with-bots.md
+    - knowledge/canon/how-to/research-and-scope-a-new-business.md
+    - knowledge/canon/how-to/wire-pr-reviews-into-slack.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '047':
+    scenes: done
+    scenes_n: 209
+    frames: 17683
+    duration_probe: 589.43
+    ocr: done
+    ocr_frames: 209
+    ocr_chars: 105413
+    asr: done
+    asr_words: 1999
+    asr_wpm: 203.5
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/build-and-maintain-verification.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  048:
+    scenes: done
+    scenes_n: 31
+    frames: 17030
+    duration_probe: 567.67
+    ocr: done
+    ocr_frames: 31
+    ocr_chars: 9737
+    asr: done
+    asr_words: 2646
+    asr_wpm: 279.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/explanation/why-a-fleet-of-bots.md
+    - knowledge/canon/how-to/turn-product-data-into-a-prd.md
+    distillation_disposition: canon-linked
+  049:
+    scenes: done
+    scenes_n: 120
+    frames: 16624
+    duration_probe: 554.13
+    ocr: done
+    ocr_frames: 120
+    ocr_chars: 64978
+    asr: done
+    asr_words: 2638
+    asr_wpm: 285.6
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/explanation/why-a-fleet-of-bots.md
+    - knowledge/canon/how-to/ship-with-cloud-agents.md
+    - knowledge/canon/how-to/turn-product-data-into-a-prd.md
+    - knowledge/canon/reference/day-1-memory-and-computer-limits.md
+    distillation_disposition: canon-linked
+  '050':
+    scenes: done
+    scenes_n: 52
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 52
+    ocr_chars: 28885
+    asr: done
+    asr_words: 2706
+    asr_wpm: 270.6
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/ship-with-cloud-agents.md
+    - knowledge/canon/how-to/turn-product-data-into-a-prd.md
+    - knowledge/canon/reference/day-1-memory-and-computer-limits.md
+    distillation_disposition: canon-linked
+  '051':
+    scenes: done
+    scenes_n: 226
+    frames: 11109
+    duration_probe: 370.3
+    ocr: done
+    ocr_frames: 226
+    ocr_chars: 24066
+    asr: done
+    asr_words: 1523
+    asr_wpm: 246.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/explanation/why-a-fleet-of-bots.md
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    - knowledge/canon/how-to/steer-memory.md
+    - knowledge/canon/how-to/turn-product-data-into-a-prd.md
+    - knowledge/canon/reference/day-1-memory-and-computer-limits.md
+    distillation_disposition: canon-linked
+  '052':
+    scenes: done
+    scenes_n: 124
+    frames: 17932
+    duration_probe: 597.73
+    ocr: done
+    ocr_frames: 124
+    ocr_chars: 24069
+    asr: done
+    asr_words: 3202
+    asr_wpm: 321.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  '053':
+    scenes: done
+    scenes_n: 91
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 91
+    ocr_chars: 58979
+    asr: done
+    asr_words: 3177
+    asr_wpm: 317.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-1-memory-and-computer-limits.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '054':
+    scenes: done
+    scenes_n: 110
+    frames: 17977
+    duration_probe: 599.23
+    ocr: done
+    ocr_frames: 110
+    ocr_chars: 102853
+    asr: done
+    asr_words: 3232
+    asr_wpm: 323.6
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/research-and-scope-a-new-business.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '055':
+    scenes: done
+    scenes_n: 109
+    frames: 17992
+    duration_probe: 599.73
+    ocr: done
+    ocr_frames: 109
+    ocr_chars: 70399
+    asr: done
+    asr_words: 3363
+    asr_wpm: 336.5
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  '056':
+    scenes: done
+    scenes_n: 109
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 109
+    ocr_chars: 18533
+    asr: done
+    asr_words: 3004
+    asr_wpm: 300.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-a-founder-bot-team.md
+    distillation_disposition: canon-linked
+  '057':
+    scenes: done
+    scenes_n: 74
+    frames: 17981
+    duration_probe: 599.37
+    ocr: done
+    ocr_frames: 74
+    ocr_chars: 72755
+    asr: done
+    asr_words: 3066
+    asr_wpm: 306.9
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-a-founder-bot-team.md
+    distillation_disposition: canon-linked
+  058:
+    scenes: done
+    scenes_n: 108
+    frames: 17973
+    duration_probe: 599.13
+    ocr: done
+    ocr_frames: 108
+    ocr_chars: 67142
+    asr: done
+    asr_words: 2874
+    asr_wpm: 287.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-a-founder-bot-team.md
+    distillation_disposition: canon-linked
+  059:
+    scenes: done
+    scenes_n: 175
+    frames: 17983
+    duration_probe: 599.43
+    ocr: done
+    ocr_frames: 175
+    ocr_chars: 7274
+    asr: done
+    asr_words: 2974
+    asr_wpm: 297.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/explanation/why-a-fleet-of-bots.md
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    - knowledge/canon/how-to/run-a-founder-bot-team.md
+    distillation_disposition: canon-linked
+  '060':
+    scenes: done
+    scenes_n: 580
+    frames: 17977
+    duration_probe: 599.23
+    ocr: done
+    ocr_frames: 580
+    ocr_chars: 6093
+    asr: done
+    asr_words: 2813
+    asr_wpm: 281.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/explanation/why-a-fleet-of-bots.md
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    - knowledge/canon/reference/day-1-memory-and-computer-limits.md
+    distillation_disposition: canon-linked
+  '061':
+    scenes: done
+    scenes_n: 336
+    frames: 17903
+    duration_probe: 596.77
+    ocr: done
+    ocr_frames: 336
+    ocr_chars: 5565
+    asr: done
+    asr_words: 2359
+    asr_wpm: 237.2
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/explanation/why-a-fleet-of-bots.md
+    - knowledge/canon/how-to/plan-an-event-with-bots.md
+    - knowledge/canon/how-to/run-a-founder-bot-team.md
+    - knowledge/canon/how-to/use-the-computer.md
+    - knowledge/canon/reference/day-1-memory-and-computer-limits.md
+    distillation_disposition: canon-linked
+  '062':
+    scenes: done
+    scenes_n: 29
+    frames: 17856
+    duration_probe: 595.2
+    ocr: done
+    ocr_frames: 29
+    ocr_chars: 1459
+    asr: done
+    asr_words: 2892
+    asr_wpm: 291.5
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/plan-an-event-with-bots.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '063':
+    scenes: done
+    scenes_n: 30
+    frames: 17999
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 30
+    ocr_chars: 1700
+    asr: done
+    asr_words: 3111
+    asr_wpm: 311.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/plan-an-event-with-bots.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '064':
+    scenes: done
+    scenes_n: 25
+    frames: 3156
+    duration_probe: 105.2
+    ocr: done
+    ocr_frames: 25
+    ocr_chars: 870
+    asr: done
+    asr_words: 403
+    asr_wpm: 229.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/research-and-scope-a-new-business.md
+    - knowledge/canon/reference/ship-by-thursday-day-1-decisions.md
+    distillation_disposition: canon-linked
+  '065':
+    scenes: done
+    scenes_n: 84
+    frames: 17981
+    duration_probe: 599.37
+    ocr: done
+    ocr_frames: 84
+    ocr_chars: 11440
+    asr: done
+    asr_words: 3041
+    asr_wpm: 304.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '066':
+    scenes: done
+    scenes_n: 103
+    frames: 17963
+    duration_probe: 598.8
+    ocr: done
+    ocr_frames: 103
+    ocr_chars: 38717
+    asr: done
+    asr_words: 3257
+    asr_wpm: 326.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '067':
+    scenes: done
+    scenes_n: 48
+    frames: 17022
+    duration_probe: 567.4
+    ocr: done
+    ocr_frames: 48
+    ocr_chars: 3274
+    asr: done
+    asr_words: 2210
+    asr_wpm: 233.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  068:
+    scenes: done
+    scenes_n: 95
+    frames: 17501
+    duration_probe: 583.37
+    ocr: done
+    ocr_frames: 95
+    ocr_chars: 74710
+    asr: done
+    asr_words: 2762
+    asr_wpm: 284.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/run-sales-engineering.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  069:
+    scenes: done
+    scenes_n: 93
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 93
+    ocr_chars: 91821
+    asr: done
+    asr_words: 2311
+    asr_wpm: 231.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-sales-engineering.md
+    distillation_disposition: canon-linked
+  '070':
+    scenes: done
+    scenes_n: 164
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 164
+    ocr_chars: 78586
+    asr: done
+    asr_words: 2748
+    asr_wpm: 274.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-sales-engineering.md
+    distillation_disposition: canon-linked
+  '071':
+    scenes: done
+    scenes_n: 221
+    frames: 17294
+    duration_probe: 576.47
+    ocr: done
+    ocr_frames: 221
+    ocr_chars: 36502
+    asr: done
+    asr_words: 2607
+    asr_wpm: 271.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/how-to/run-sales-engineering.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '072':
+    scenes: done
+    scenes_n: 124
+    frames: 15400
+    duration_probe: 513.33
+    ocr: done
+    ocr_frames: 124
+    ocr_chars: 126766
+    asr: done
+    asr_words: 2355
+    asr_wpm: 275.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    distillation_disposition: canon-linked
+  '073':
+    scenes: done
+    scenes_n: 140
+    frames: 17995
+    duration_probe: 599.83
+    ocr: done
+    ocr_frames: 140
+    ocr_chars: 82032
+    asr: done
+    asr_words: 2426
+    asr_wpm: 242.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '074':
+    scenes: done
+    scenes_n: 16
+    frames: 1958
+    duration_probe: 65.27
+    ocr: done
+    ocr_frames: 16
+    ocr_chars: 574
+    asr: done
+    asr_words: 110
+    asr_wpm: 101.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  '075':
+    scenes: done
+    scenes_n: 151
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 151
+    ocr_chars: 128500
+    asr: done
+    asr_words: 1971
+    asr_wpm: 197.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '076':
+    scenes: done
+    scenes_n: 116
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 116
+    ocr_chars: 51245
+    asr: done
+    asr_words: 2179
+    asr_wpm: 217.9
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  '077':
+    scenes: done
+    scenes_n: 260
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 260
+    ocr_chars: 81981
+    asr: done
+    asr_words: 2868
+    asr_wpm: 286.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  078:
+    scenes: done
+    scenes_n: 168
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 168
+    ocr_chars: 63796
+    asr: done
+    asr_words: 2507
+    asr_wpm: 250.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  079:
+    scenes: done
+    scenes_n: 398
+    frames: 17994
+    duration_probe: 599.8
+    ocr: done
+    ocr_frames: 398
+    ocr_chars: 10941
+    asr: done
+    asr_words: 3327
+    asr_wpm: 332.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  080:
+    scenes: done
+    scenes_n: 308
+    frames: 17977
+    duration_probe: 599.23
+    ocr: done
+    ocr_frames: 308
+    ocr_chars: 9857
+    asr: done
+    asr_words: 3213
+    asr_wpm: 321.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  081:
+    scenes: done
+    scenes_n: 190
+    frames: 10719
+    duration_probe: 357.3
+    ocr: done
+    ocr_frames: 190
+    ocr_chars: 6870
+    asr: done
+    asr_words: 1538
+    asr_wpm: 258.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  082:
+    scenes: done
+    scenes_n: 119
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 119
+    ocr_chars: 42077
+    asr: done
+    asr_words: 2704
+    asr_wpm: 270.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    distillation_disposition: canon-linked
+  083:
+    scenes: done
+    scenes_n: 61
+    frames: 17939
+    duration_probe: 598.07
+    ocr: done
+    ocr_frames: 61
+    ocr_chars: 28969
+    asr: done
+    asr_words: 2689
+    asr_wpm: 269.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  084:
+    scenes: done
+    scenes_n: 114
+    frames: 17980
+    duration_probe: 599.33
+    ocr: done
+    ocr_frames: 114
+    ocr_chars: 93453
+    asr: done
+    asr_words: 2464
+    asr_wpm: 246.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  085:
+    scenes: done
+    scenes_n: 93
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 93
+    ocr_chars: 55789
+    asr: done
+    asr_words: 3145
+    asr_wpm: 314.5
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  086:
+    scenes: done
+    scenes_n: 169
+    frames: 17188
+    duration_probe: 572.93
+    ocr: done
+    ocr_frames: 169
+    ocr_chars: 14984
+    asr: done
+    asr_words: 2761
+    asr_wpm: 289.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  087:
+    scenes: done
+    scenes_n: 36
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 36
+    ocr_chars: 40747
+    asr: done
+    asr_words: 2611
+    asr_wpm: 261.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    - knowledge/canon/how-to/run-sales-workflows.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  088:
+    scenes: done
+    scenes_n: 45
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 45
+    ocr_chars: 46184
+    asr: done
+    asr_words: 2457
+    asr_wpm: 245.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-sales-workflows.md
+    distillation_disposition: canon-linked
+  089:
+    scenes: done
+    scenes_n: 180
+    frames: 13303
+    duration_probe: 443.43
+    ocr: done
+    ocr_frames: 180
+    ocr_chars: 2686
+    asr: done
+    asr_words: 1884
+    asr_wpm: 254.9
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    - knowledge/canon/how-to/run-sales-workflows.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  090:
+    scenes: done
+    scenes_n: 539
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 539
+    ocr_chars: 21291
+    asr: done
+    asr_words: 1433
+    asr_wpm: 143.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-sales-workflows.md
+    distillation_disposition: canon-linked
+  091:
+    scenes: done
+    scenes_n: 307
+    frames: 17316
+    duration_probe: 577.2
+    ocr: done
+    ocr_frames: 307
+    ocr_chars: 8123
+    asr: done
+    asr_words: 3098
+    asr_wpm: 322.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  092:
+    scenes: done
+    scenes_n: 312
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 312
+    ocr_chars: 7683
+    asr: done
+    asr_words: 3176
+    asr_wpm: 317.6
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  093:
+    scenes: done
+    scenes_n: 51
+    frames: 5409
+    duration_probe: 180.3
+    ocr: done
+    ocr_frames: 51
+    ocr_chars: 2059
+    asr: done
+    asr_words: 611
+    asr_wpm: 203.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  094:
+    scenes: done
+    scenes_n: 175
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 175
+    ocr_chars: 68088
+    asr: done
+    asr_words: 3266
+    asr_wpm: 326.6
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  095:
+    scenes: done
+    scenes_n: 193
+    frames: 17964
+    duration_probe: 598.8
+    ocr: done
+    ocr_frames: 193
+    ocr_chars: 11260
+    asr: done
+    asr_words: 3314
+    asr_wpm: 332.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  096:
+    scenes: done
+    scenes_n: 112
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 112
+    ocr_chars: 48050
+    asr: done
+    asr_words: 3146
+    asr_wpm: 314.6
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  097:
+    scenes: done
+    scenes_n: 125
+    frames: 17975
+    duration_probe: 599.17
+    ocr: done
+    ocr_frames: 125
+    ocr_chars: 93816
+    asr: done
+    asr_words: 3234
+    asr_wpm: 323.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  098:
+    scenes: done
+    scenes_n: 146
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 146
+    ocr_chars: 32787
+    asr: done
+    asr_words: 3004
+    asr_wpm: 300.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  099:
+    scenes: done
+    scenes_n: 14
+    frames: 17985
+    duration_probe: 599.5
+    ocr: done
+    ocr_frames: 14
+    ocr_chars: 9381
+    asr: done
+    asr_words: 2986
+    asr_wpm: 298.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-sdr-prospecting.md
+    distillation_disposition: canon-linked
+  '100':
+    scenes: done
+    scenes_n: 43
+    frames: 17977
+    duration_probe: 599.23
+    ocr: done
+    ocr_frames: 43
+    ocr_chars: 89952
+    asr: done
+    asr_words: 2907
+    asr_wpm: 291.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-sdr-prospecting.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '101':
+    scenes: done
+    scenes_n: 82
+    frames: 17986
+    duration_probe: 599.53
+    ocr: done
+    ocr_frames: 82
+    ocr_chars: 82766
+    asr: done
+    asr_words: 2897
+    asr_wpm: 289.9
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    - knowledge/canon/how-to/run-sdr-prospecting.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '102':
+    scenes: done
+    scenes_n: 217
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 217
+    ocr_chars: 15536
+    asr: done
+    asr_words: 2869
+    asr_wpm: 286.9
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    - knowledge/canon/how-to/run-sdr-prospecting.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '103':
+    scenes: done
+    scenes_n: 146
+    frames: 17979
+    duration_probe: 599.3
+    ocr: done
+    ocr_frames: 146
+    ocr_chars: 114415
+    asr: done
+    asr_words: 3043
+    asr_wpm: 304.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '104':
+    scenes: done
+    scenes_n: 129
+    frames: 17968
+    duration_probe: 598.93
+    ocr: done
+    ocr_frames: 129
+    ocr_chars: 122361
+    asr: done
+    asr_words: 2865
+    asr_wpm: 287.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '105':
+    scenes: done
+    scenes_n: 149
+    frames: 17846
+    duration_probe: 594.87
+    ocr: done
+    ocr_frames: 149
+    ocr_chars: 156640
+    asr: done
+    asr_words: 2453
+    asr_wpm: 247.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    distillation_disposition: canon-linked
+  '106':
+    scenes: done
+    scenes_n: 164
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 164
+    ocr_chars: 115465
+    asr: done
+    asr_words: 2177
+    asr_wpm: 217.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    distillation_disposition: canon-linked
+  '107':
+    scenes: done
+    scenes_n: 93
+    frames: 10275
+    duration_probe: 342.5
+    ocr: done
+    ocr_frames: 93
+    ocr_chars: 37352
+    asr: done
+    asr_words: 1554
+    asr_wpm: 272.2
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '108':
+    scenes: done
+    scenes_n: 38
+    frames: 17774
+    duration_probe: 592.47
+    ocr: done
+    ocr_frames: 38
+    ocr_chars: 4928
+    asr: done
+    asr_words: 2167
+    asr_wpm: 219.5
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/how-to/run-customer-support.md
+    distillation_disposition: canon-linked
+  '109':
+    scenes: done
+    scenes_n: 150
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 150
+    ocr_chars: 51103
+    asr: done
+    asr_words: 1913
+    asr_wpm: 191.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-customer-support.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '110':
+    scenes: done
+    scenes_n: 184
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 184
+    ocr_chars: 44331
+    asr: done
+    asr_words: 1555
+    asr_wpm: 155.5
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    - knowledge/canon/how-to/run-customer-support.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '111':
+    scenes: done
+    scenes_n: 202
+    frames: 6488
+    duration_probe: 216.27
+    ocr: done
+    ocr_frames: 202
+    ocr_chars: 2698
+    asr: done
+    asr_words: 693
+    asr_wpm: 192.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/reduce-bot-token-use.md
+    - knowledge/canon/how-to/run-customer-support.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '112':
+    scenes: done
+    scenes_n: 116
+    frames: 17145
+    duration_probe: 574.33
+    ocr: done
+    ocr_frames: 116
+    ocr_chars: 85604
+    asr: done
+    asr_words: 2901
+    asr_wpm: 303.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/operate-a-bot-team.md
+    - knowledge/canon/reference/day-2-workflows.md
+    distillation_disposition: canon-linked
+  '113':
+    scenes: done
+    scenes_n: 64
+    frames: 17987
+    duration_probe: 599.57
+    ocr: done
+    ocr_frames: 64
+    ocr_chars: 39557
+    asr: done
+    asr_words: 2939
+    asr_wpm: 294.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/triage-feedback-and-verify-fixes.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '114':
+    scenes: done
+    scenes_n: 60
+    frames: 16006
+    duration_probe: 533.53
+    ocr: done
+    ocr_frames: 60
+    ocr_chars: 10733
+    asr: done
+    asr_words: 2848
+    asr_wpm: 320.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  '115':
+    scenes: done
+    scenes_n: 65
+    frames: 17980
+    duration_probe: 599.33
+    ocr: done
+    ocr_frames: 65
+    ocr_chars: 41300
+    asr: done
+    asr_words: 2226
+    asr_wpm: 222.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-revops-task-handoffs.md
+    distillation_disposition: canon-linked
+  '116':
+    scenes: done
+    scenes_n: 45
+    frames: 17979
+    duration_probe: 599.3
+    ocr: done
+    ocr_frames: 45
+    ocr_chars: 23213
+    asr: done
+    asr_words: 2324
+    asr_wpm: 232.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/build-crm-lead-review-tool.md
+    distillation_disposition: canon-linked
+  '117':
+    scenes: done
+    scenes_n: 413
+    frames: 17958
+    duration_probe: 598.6
+    ocr: done
+    ocr_frames: 413
+    ocr_chars: 6703
+    asr: done
+    asr_words: 2368
+    asr_wpm: 237.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-revops-task-handoffs.md
+    distillation_disposition: canon-linked
+  '118':
+    scenes: done
+    scenes_n: 3
+    frames: 103
+    duration_probe: 3.43
+    ocr: done
+    ocr_frames: 3
+    ocr_chars: 48
+    asr: done
+    asr_words: 18
+    asr_wpm: 314.9
+    warnings:
+    - sparse OCR 48 chars
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  '119':
+    scenes: done
+    scenes_n: 406
+    frames: 16486
+    duration_probe: 549.53
+    ocr: done
+    ocr_frames: 406
+    ocr_chars: 13328
+    asr: done
+    asr_words: 1665
+    asr_wpm: 181.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/build-crm-lead-review-tool.md
+    distillation_disposition: canon-linked
+  '120':
+    scenes: done
+    scenes_n: 48
+    frames: 17971
+    duration_probe: 599.17
+    ocr: done
+    ocr_frames: 48
+    ocr_chars: 3665
+    asr: done
+    asr_words: 3015
+    asr_wpm: 301.9
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  '121':
+    scenes: done
+    scenes_n: 120
+    frames: 17963
+    duration_probe: 598.77
+    ocr: done
+    ocr_frames: 120
+    ocr_chars: 41907
+    asr: done
+    asr_words: 3303
+    asr_wpm: 331.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  '122':
+    scenes: done
+    scenes_n: 139
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 139
+    ocr_chars: 47379
+    asr: done
+    asr_words: 3295
+    asr_wpm: 329.5
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/monitor-a-product-launch.md
+    distillation_disposition: canon-linked
+  '123':
+    scenes: done
+    scenes_n: 89
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 89
+    ocr_chars: 68374
+    asr: done
+    asr_words: 3000
+    asr_wpm: 300.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/monitor-a-product-launch.md
+    distillation_disposition: canon-linked
+  '124':
+    scenes: done
+    scenes_n: 96
+    frames: 17988
+    duration_probe: 599.6
+    ocr: done
+    ocr_frames: 96
+    ocr_chars: 55941
+    asr: done
+    asr_words: 2862
+    asr_wpm: 286.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/monitor-a-product-launch.md
+    - knowledge/canon/how-to/triage-feedback-and-verify-fixes.md
+    distillation_disposition: canon-linked
+  '125':
+    scenes: done
+    scenes_n: 102
+    frames: 17999
+    duration_probe: 599.97
+    ocr: done
+    ocr_frames: 102
+    ocr_chars: 49623
+    asr: done
+    asr_words: 3000
+    asr_wpm: 300.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources: []
+    distillation_disposition: retained-in-timeline
+  '126':
+    scenes: done
+    scenes_n: 100
+    frames: 17997
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 100
+    ocr_chars: 73826
+    asr: done
+    asr_words: 2269
+    asr_wpm: 226.9
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/triage-feedback-and-verify-fixes.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '127':
+    scenes: done
+    scenes_n: 68
+    frames: 8546
+    duration_probe: 284.87
+    ocr: done
+    ocr_frames: 68
+    ocr_chars: 15981
+    asr: done
+    asr_words: 1103
+    asr_wpm: 232.3
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/triage-feedback-and-verify-fixes.md
+    distillation_disposition: canon-linked
+  '128':
+    scenes: done
+    scenes_n: 132
+    frames: 17838
+    duration_probe: 594.6
+    ocr: done
+    ocr_frames: 132
+    ocr_chars: 39353
+    asr: done
+    asr_words: 3683
+    asr_wpm: 371.6
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/build-a-growth-playbook.md
+    distillation_disposition: canon-linked
+  '129':
+    scenes: done
+    scenes_n: 89
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 89
+    ocr_chars: 50508
+    asr: done
+    asr_words: 3347
+    asr_wpm: 334.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/build-a-growth-playbook.md
+    distillation_disposition: canon-linked
+  '130':
+    scenes: done
+    scenes_n: 128
+    frames: 17954
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 128
+    ocr_chars: 47081
+    asr: done
+    asr_words: 3750
+    asr_wpm: 375.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/build-a-growth-playbook.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '131':
+    scenes: done
+    scenes_n: 87
+    frames: 17648
+    duration_probe: 591.43
+    ocr: done
+    ocr_frames: 87
+    ocr_chars: 18443
+    asr: done
+    asr_words: 3244
+    asr_wpm: 329.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-revops-task-handoffs.md
+    distillation_disposition: canon-linked
+  '132':
+    scenes: done
+    scenes_n: 91
+    frames: 17857
+    duration_probe: 598.57
+    ocr: done
+    ocr_frames: 91
+    ocr_chars: 70016
+    asr: done
+    asr_words: 3442
+    asr_wpm: 345.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/define-icp-and-plan-outreach.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '133':
+    scenes: done
+    scenes_n: 92
+    frames: 17952
+    duration_probe: 599.43
+    ocr: done
+    ocr_frames: 92
+    ocr_chars: 82935
+    asr: done
+    asr_words: 3398
+    asr_wpm: 340.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/define-icp-and-plan-outreach.md
+    - knowledge/canon/how-to/monitor-a-product-launch.md
+    distillation_disposition: canon-linked
+  '134':
+    scenes: done
+    scenes_n: 18
+    frames: 7283
+    duration_probe: 245.27
+    ocr: done
+    ocr_frames: 18
+    ocr_chars: 5644
+    asr: done
+    asr_words: 1400
+    asr_wpm: 342.5
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/define-icp-and-plan-outreach.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '135':
+    scenes: done
+    scenes_n: 93
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 93
+    ocr_chars: 8778
+    asr: done
+    asr_words: 2800
+    asr_wpm: 280.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/run-post-sales-desk.md
+    distillation_disposition: canon-linked
+  '136':
+    scenes: done
+    scenes_n: 125
+    frames: 17833
+    duration_probe: 594.43
+    ocr: done
+    ocr_frames: 125
+    ocr_chars: 167993
+    asr: done
+    asr_words: 2527
+    asr_wpm: 255.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/run-post-sales-desk.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '137':
+    scenes: done
+    scenes_n: 51
+    frames: 7833
+    duration_probe: 261.1
+    ocr: done
+    ocr_frames: 51
+    ocr_chars: 74192
+    asr: done
+    asr_words: 1087
+    asr_wpm: 249.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/run-post-sales-desk.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '138':
+    scenes: done
+    scenes_n: 211
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 211
+    ocr_chars: 14827
+    asr: done
+    asr_words: 2577
+    asr_wpm: 257.7
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/improve-bot-system-with-feedback.md
+    - knowledge/canon/how-to/run-post-sales-desk.md
+    distillation_disposition: canon-linked
+  '139':
+    scenes: done
+    scenes_n: 281
+    frames: 17913
+    duration_probe: 599.07
+    ocr: done
+    ocr_frames: 281
+    ocr_chars: 4232
+    asr: done
+    asr_words: 2612
+    asr_wpm: 261.6
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/improve-bot-system-with-feedback.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '140':
+    scenes: done
+    scenes_n: 177
+    frames: 7935
+    duration_probe: 264.5
+    ocr: done
+    ocr_frames: 177
+    ocr_chars: 4342
+    asr: done
+    asr_words: 977
+    asr_wpm: 221.6
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/improve-bot-system-with-feedback.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '141':
+    scenes: done
+    scenes_n: 119
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 119
+    ocr_chars: 42681
+    asr: done
+    asr_words: 3230
+    asr_wpm: 323.0
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/monitor-a-product-launch.md
+    distillation_disposition: canon-linked
+  '142':
+    scenes: done
+    scenes_n: 155
+    frames: 17953
+    duration_probe: 598.43
+    ocr: done
+    ocr_frames: 155
+    ocr_chars: 67157
+    asr: done
+    asr_words: 2998
+    asr_wpm: 300.6
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/build-a-growth-playbook.md
+    - knowledge/canon/how-to/triage-feedback-and-verify-fixes.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '143':
+    scenes: done
+    scenes_n: 126
+    frames: 17588
+    duration_probe: 586.27
+    ocr: done
+    ocr_frames: 126
+    ocr_chars: 47097
+    asr: done
+    asr_words: 2624
+    asr_wpm: 268.5
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/triage-feedback-and-verify-fixes.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '144':
+    scenes: done
+    scenes_n: 159
+    frames: 17926
+    duration_probe: 598.33
+    ocr: done
+    ocr_frames: 159
+    ocr_chars: 70901
+    asr: done
+    asr_words: 3213
+    asr_wpm: 322.2
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '145':
+    scenes: done
+    scenes_n: 141
+    frames: 17964
+    duration_probe: 598.8
+    ocr: done
+    ocr_frames: 141
+    ocr_chars: 40791
+    asr: done
+    asr_words: 3421
+    asr_wpm: 342.8
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '146':
+    scenes: done
+    scenes_n: 60
+    frames: 15415
+    duration_probe: 513.83
+    ocr: done
+    ocr_frames: 60
+    ocr_chars: 16828
+    asr: done
+    asr_words: 2977
+    asr_wpm: 347.6
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/improve-bot-system-with-feedback.md
+    distillation_disposition: canon-linked
+  '147':
+    scenes: done
+    scenes_n: 97
+    frames: 17894
+    duration_probe: 596.5
+    ocr: done
+    ocr_frames: 97
+    ocr_chars: 11686
+    asr: done
+    asr_words: 3352
+    asr_wpm: 337.2
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    - knowledge/canon/reference/stripe-link-card.md
+    distillation_disposition: canon-linked
+  '148':
+    scenes: done
+    scenes_n: 40
+    frames: 17893
+    duration_probe: 596.43
+    ocr: done
+    ocr_frames: 40
+    ocr_chars: 18992
+    asr: done
+    asr_words: 2408
+    asr_wpm: 242.2
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/orchestrate-marketing-campaign.md
+    distillation_disposition: canon-linked
+  '149':
+    scenes: done
+    scenes_n: 70
+    frames: 17968
+    duration_probe: 598.93
+    ocr: done
+    ocr_frames: 70
+    ocr_chars: 43808
+    asr: done
+    asr_words: 2361
+    asr_wpm: 236.5
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/orchestrate-marketing-campaign.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '150':
+    scenes: done
+    scenes_n: 81
+    frames: 17960
+    duration_probe: 598.67
+    ocr: done
+    ocr_frames: 81
+    ocr_chars: 25901
+    asr: done
+    asr_words: 2374
+    asr_wpm: 237.9
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/orchestrate-marketing-campaign.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '151':
+    scenes: done
+    scenes_n: 392
+    frames: 17290
+    duration_probe: 576.33
+    ocr: done
+    ocr_frames: 392
+    ocr_chars: 19384
+    asr: done
+    asr_words: 2468
+    asr_wpm: 256.9
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/how-to/improve-bot-system-with-feedback.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '152':
+    scenes: done
+    scenes_n: 179
+    frames: 17949
+    duration_probe: 598.3
+    ocr: done
+    ocr_frames: 179
+    ocr_chars: 39535
+    asr: done
+    asr_words: 3160
+    asr_wpm: 316.9
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/approvals-and-rules.md
+    - knowledge/canon/how-to/monitor-a-product-launch.md
+    - knowledge/canon/how-to/orchestrate-marketing-campaign.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '153':
+    scenes: done
+    scenes_n: 164
+    frames: 13741
+    duration_probe: 460.77
+    ocr: done
+    ocr_frames: 164
+    ocr_chars: 121489
+    asr: done
+    asr_words: 2143
+    asr_wpm: 279.1
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/triage-feedback-and-verify-fixes.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '154':
+    scenes: done
+    scenes_n: 226
+    frames: 16424
+    duration_probe: 547.5
+    ocr: done
+    ocr_frames: 226
+    ocr_chars: 171325
+    asr: done
+    asr_words: 2458
+    asr_wpm: 269.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '155':
+    scenes: done
+    scenes_n: 166
+    frames: 18000
+    duration_probe: 600.0
+    ocr: done
+    ocr_frames: 166
+    ocr_chars: 117007
+    asr: done
+    asr_words: 2894
+    asr_wpm: 289.4
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/triage-feedback-and-verify-fixes.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
+  '156':
+    scenes: done
+    scenes_n: 94
+    frames: 17966
+    duration_probe: 598.97
+    ocr: done
+    ocr_frames: 94
+    ocr_chars: 25260
+    asr: done
+    asr_words: 2847
+    asr_wpm: 285.2
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    distillation_disposition: canon-linked
+  '157':
+    scenes: done
+    scenes_n: 160
+    frames: 17933
+    duration_probe: 597.77
+    ocr: done
+    ocr_frames: 160
+    ocr_chars: 57192
+    asr: done
+    asr_words: 2888
+    asr_wpm: 289.9
+    warnings: []
+    aligned: done
+    distilled: done
+    reviewed_on: '2026-09-22'
+    canon_sources:
+    - knowledge/canon/glossary.md
+    - knowledge/canon/how-to/monitor-a-product-launch.md
+    - knowledge/canon/how-to/triage-feedback-and-verify-fixes.md
+    - knowledge/canon/reference/day-3-capability-boundaries.md
+    distillation_disposition: canon-linked
 notes:
-  - "All 18 timelines pass the four-field contract (Spoken / On screen / Actions / Facts)."
-  - "Whisper Anne-Rita corrected to Amrita in timeline 10."
-  - "Later live files are out of scope until the user drops them."
+- 157 inventory clips have aligned records and have been reviewed for canon; replay/break/session-only
+  details remain in timelines.
+- This is a historical text-based editorial review, not a full video rewatch or independent
+  product audit; see evidence-policy.md.
+- Machine extraction statuses and warnings are inherited from the local capture pipeline
+  and retained.
+- 'Clip01-18: previous alignment/distillation plus guide and targeted evidence review.
+  Clips019-152: full published-timeline review by day. Clips153-157: text-pack alignment.'
+- Targeted text-pack intervals043,044,067,093,119 repair prior endpoint/gap defects.
+  Unrecoverable speech remains explicitly marked GAP.
+- '2026-09-22: reconciled top-level flags, primary modules, caller/capture redactions
+  and captured-duration total.'
+runs:
+- started: '2026-09-17T19:31:28'
+  log: run_20260917_192944.log
+  selected: 1
+  processed: 1
+  failed: 0
+  elapsed_min: 1.7
+- started: '2026-09-18T01:02:30'
+  log: run_20260917_215621.log
+  selected: 157
+  processed: 86
+  failed: 0
+  elapsed_min: 186.1
+distilled_complete: true
+reviewed_on: '2026-09-22'

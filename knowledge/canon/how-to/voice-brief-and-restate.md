@@ -7,3 +7,5 @@ Source: Engineering clip 14 (Lauren → Steve).
 3. Use the restatement as the spec; pass that framing to specialist bots (here: Steve → grokpot).
 
 Do not start from a generic “make a landing page” — include the actual offer (e.g. French fries / operators-first waitlist).
+
+Evidence: [14](../../timelines/14.md).

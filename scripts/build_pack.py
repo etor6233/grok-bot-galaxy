@@ -1,7 +1,13 @@
-"""Build a token-cheap per-clip pack: transcript + deduped OCR, junk stripped."""
+"""Build local packs for clips 01–18 and 019–157 from existing ASR/OCR.
+
+Only Python's standard library is needed. Packs are derived material under the
+gitignored knowledge/sources directory, not published product documentation.
+"""
 from __future__ import annotations
 
+import argparse
 import re
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -77,12 +83,19 @@ def build(clip_id: str) -> Path:
     return path
 
 
-def main() -> None:
+def main() -> int:
+    if not SOURCES.is_dir():
+        print("No knowledge/sources directory. Packs require an authorized local capture first; the published KB works without them.", file=sys.stderr)
+        return 2
     for d in sorted(SOURCES.iterdir()):
+        if not d.is_dir():
+            continue
         if (d / "transcript.md").exists() or (d / "ocr.md").exists():
             p = build(d.name)
             print(d.name, p.stat().st_size)
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    argparse.ArgumentParser(description=__doc__).parse_args()
+    raise SystemExit(main())

@@ -18,3 +18,5 @@ Share a bot as a **template** with the team. Others customize their copy. Multip
 - **From my team / company:** publish internally.
 
 UI: Marketplace control in the chrome (also on the Introducing Grok Bot screenshot).
+
+Evidence: [06](../../timelines/06.md), [07](../../timelines/07.md), [09](../../timelines/09.md).

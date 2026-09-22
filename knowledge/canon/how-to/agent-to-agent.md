@@ -12,3 +12,5 @@ What you see: an inter-bot thread. Ethan: “Amrita asked me to…”. Dan: stil
 Amrita’s name for this: **agent-to-agent protocol / communication**. You manage orchestration; bots are long-lived personas with memory (Ethan could run a year and keep every email; Sonia’s job is slides in general, not one deck).
 
 Orchestrate by **project** or by **expertise** — your choice; “you’re creating your own company / team of agents.”
+
+Evidence: [06](../../timelines/06.md).

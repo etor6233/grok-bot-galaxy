@@ -25,3 +25,5 @@ Campaigns watched overnight, a budget drafted for the month, and creatives that 
 Example bots: **Chief of Staff**, **Expense Manager**.
 
 Calendars, travel, expenses, and inboxes handled end to end. The admin directs the work while Bots run the busywork.
+
+Evidence: [04](../../timelines/04.md).

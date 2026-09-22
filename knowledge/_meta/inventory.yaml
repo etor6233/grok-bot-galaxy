@@ -1,7 +1,5 @@
 event:
   name: Grok Bot Galaxy
-  day: 1
-  date: 2026-09-15
   language: en
   capture: Bandicam livestream
   resolution: 1920x1080
@@ -10,99 +8,1497 @@ event:
   audio_codec: aac
   audio_rate: 48000
   audio_channels: 2
+  dates:
+  - '2026-09-15'
+  - '2026-09-16'
+  - '2026-09-17'
 clips:
-  - id: "01"
-    file: "1-Bienvenida- 2026-09-15.mp4"
-    module: bienvenida
-    duration: "00:10:00"
-    recorded_end: "2026-09-15T12:42:35"
-  - id: "02"
-    file: "2-Bienvenida- 2026-09-15.mp4"
-    module: bienvenida
-    duration: "00:10:00"
-    recorded_end: "2026-09-15T12:52:39"
-  - id: "03"
-    file: "3-Bienvenida-Grok Bot 101- 2026-09-15.mp4"
-    module: bienvenida-to-101
-    duration: "00:10:00"
-    recorded_end: "2026-09-15T13:02:42"
-  - id: "04"
-    file: "4-Grok Bot 101- 2026-09-15.mp4"
-    module: grok-bot-101
-    duration: "00:09:35"
-    recorded_end: "2026-09-15T13:12:19"
-  - id: "05"
-    file: "5-Grok Bot 101 (3 minutos de gap) 2026-09-15.mp4"
-    module: grok-bot-101
-    duration: "00:10:00"
-    recorded_end: "2026-09-15T13:22:21"
-    notes: "Filename flags a 3-minute content gap."
-  - id: "06"
-    file: "6-Grok Bot 101- 2026-09-15.mp4"
-    module: grok-bot-101
-    duration: "00:09:59"
-    recorded_end: "2026-09-15T13:35:04"
-  - id: "07"
-    file: "7-Grok Bot 101- 2026-09-15.mp4"
-    module: grok-bot-101
-    duration: "00:09:59"
-    recorded_end: "2026-09-15T13:45:05"
-  - id: "08"
-    file: "8-Grok Bot 101- 2026-09-15.mp4"
-    module: grok-bot-101
-    duration: "00:09:59"
-    recorded_end: "2026-09-15T13:55:06"
-  - id: "09"
-    file: "9-Grok Bot 101- 2026-09-15.mp4"
-    module: grok-bot-101
-    duration: "00:07:28"
-    recorded_end: "2026-09-15T14:02:35"
-  - id: "10"
-    file: "10-Engineering- 2026-09-15.mp4"
-    module: engineering
-    duration: "00:09:59"
-    recorded_end: "2026-09-15T14:13:28"
-  - id: "11"
-    file: "11-Engineering- 2026-09-15.mp4"
-    module: engineering
-    duration: "00:09:59"
-    recorded_end: "2026-09-15T14:23:28"
-  - id: "12"
-    file: "12-Engineering- 2026-09-15.mp4"
-    module: engineering
-    duration: "00:10:00"
-    recorded_end: "2026-09-15T14:33:29"
-  - id: "13"
-    file: "13-Engineering- 2026-09-15.mp4"
-    module: engineering
-    duration: "00:09:59"
-    recorded_end: "2026-09-15T14:43:53"
-  - id: "14"
-    file: "14-Engineering- 2026-09-15.mp4"
-    module: engineering
-    duration: "00:09:59"
-    recorded_end: "2026-09-15T14:53:53"
-  - id: "15"
-    file: "15-Engineering- 2026-09-15.mp4"
-    module: engineering
-    duration: "00:10:00"
-    recorded_end: "2026-09-15T15:03:54"
-  - id: "16"
-    file: "16-Engineering- 2026-09-15.mp4"
-    module: engineering
-    duration: "00:06:37"
-    recorded_end: "2026-09-15T15:10:35"
-  - id: "17"
-    file: "17-Engineering- 2026-09-15.mp4"
-    module: engineering
-    duration: "00:09:59"
-    recorded_end: "2026-09-15T15:20:37"
-  - id: "18"
-    file: "18-Engineering- 2026-09-15.mp4"
-    module: engineering
-    duration: "00:02:50"
-    recorded_end: "2026-09-15T15:24:30"
+- id: '01'
+  file: 1-Bienvenida- 2026-09-15.mp4
+  module: bienvenida
+  duration: 00:10:00
+  recorded_end: '2026-09-15T12:42:35'
+  day: '2026-09-15'
+- id: '02'
+  file: 2-Bienvenida- 2026-09-15.mp4
+  module: bienvenida
+  duration: 00:10:00
+  recorded_end: '2026-09-15T12:52:39'
+  day: '2026-09-15'
+- id: '03'
+  file: 3-Bienvenida-Grok Bot 101- 2026-09-15.mp4
+  module: bienvenida-to-101
+  duration: 00:10:00
+  recorded_end: '2026-09-15T13:02:42'
+  day: '2026-09-15'
+- id: '04'
+  file: 4-Grok Bot 101- 2026-09-15.mp4
+  module: grok-bot-101
+  duration: 00:09:35
+  recorded_end: '2026-09-15T13:12:19'
+  day: '2026-09-15'
+- id: '05'
+  file: 5-Grok Bot 101 (3 minutos de gap) 2026-09-15.mp4
+  module: grok-bot-101
+  duration: 00:10:00
+  recorded_end: '2026-09-15T13:22:21'
+  notes: Filename flags a 3-minute content gap.
+  day: '2026-09-15'
+- id: '06'
+  file: 6-Grok Bot 101- 2026-09-15.mp4
+  module: grok-bot-101
+  duration: 00:09:59
+  recorded_end: '2026-09-15T13:35:04'
+  day: '2026-09-15'
+- id: '07'
+  file: 7-Grok Bot 101- 2026-09-15.mp4
+  module: grok-bot-101
+  duration: 00:09:59
+  recorded_end: '2026-09-15T13:45:05'
+  day: '2026-09-15'
+- id: 08
+  file: 8-Grok Bot 101- 2026-09-15.mp4
+  module: grok-bot-101
+  duration: 00:09:59
+  recorded_end: '2026-09-15T13:55:06'
+  day: '2026-09-15'
+- id: 09
+  file: 9-Grok Bot 101- 2026-09-15.mp4
+  module: grok-bot-101
+  duration: 00:07:28
+  recorded_end: '2026-09-15T14:02:35'
+  day: '2026-09-15'
+- id: '10'
+  file: 10-Engineering- 2026-09-15.mp4
+  module: engineering
+  duration: 00:09:59
+  recorded_end: '2026-09-15T14:13:28'
+  day: '2026-09-15'
+- id: '11'
+  file: 11-Engineering- 2026-09-15.mp4
+  module: engineering
+  duration: 00:09:59
+  recorded_end: '2026-09-15T14:23:28'
+  day: '2026-09-15'
+- id: '12'
+  file: 12-Engineering- 2026-09-15.mp4
+  module: engineering
+  duration: 00:10:00
+  recorded_end: '2026-09-15T14:33:29'
+  day: '2026-09-15'
+- id: '13'
+  file: 13-Engineering- 2026-09-15.mp4
+  module: engineering
+  duration: 00:09:59
+  recorded_end: '2026-09-15T14:43:53'
+  day: '2026-09-15'
+- id: '14'
+  file: 14-Engineering- 2026-09-15.mp4
+  module: engineering
+  duration: 00:09:59
+  recorded_end: '2026-09-15T14:53:53'
+  day: '2026-09-15'
+- id: '15'
+  file: 15-Engineering- 2026-09-15.mp4
+  module: engineering
+  duration: 00:10:00
+  recorded_end: '2026-09-15T15:03:54'
+  day: '2026-09-15'
+- id: '16'
+  file: 16-Engineering- 2026-09-15.mp4
+  module: engineering
+  duration: 00:06:37
+  recorded_end: '2026-09-15T15:10:35'
+  day: '2026-09-15'
+- id: '17'
+  file: 17-Engineering- 2026-09-15.mp4
+  module: engineering
+  duration: 00:09:59
+  recorded_end: '2026-09-15T15:20:37'
+  day: '2026-09-15'
+- id: '18'
+  file: 18-Engineering- 2026-09-15.mp4
+  module: engineering
+  duration: 00:02:50
+  recorded_end: '2026-09-15T15:24:30'
+  day: '2026-09-15'
+- id: 019
+  file: 19-Engineering- 2026-09-15.mp4
+  size_bytes: 64099355
+  recorded_end: '2026-09-15T15:38:46'
+  duration: 00:09:59
+  duration_seconds: 599.233
+  day: '2026-09-15'
+  module: engineering
+- id: '020'
+  file: 20-Engineering- 2026-09-15.mp4
+  size_bytes: 74523331
+  recorded_end: '2026-09-15T15:48:47'
+  duration: 00:09:59
+  duration_seconds: 599.956
+  day: '2026-09-15'
+  module: engineering
+- id: '021'
+  file: 21-Engineering- 2026-09-15.mp4
+  size_bytes: 49377625
+  recorded_end: '2026-09-15T15:55:44'
+  duration: 00:04:55
+  duration_seconds: 295.5
+  day: '2026-09-15'
+  module: engineering
+- id: '022'
+  file: 22-Engineering- 2026-09-15.mp4
+  size_bytes: 72701261
+  recorded_end: '2026-09-15T16:34:58'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: engineering
+- id: '023'
+  file: 23-Engineering- 2026-09-15.mp4
+  size_bytes: 149860964
+  recorded_end: '2026-09-15T16:45:03'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: engineering
+- id: '024'
+  file: 24-Engineering- 2026-09-15.mp4
+  size_bytes: 370090647
+  recorded_end: '2026-09-15T16:55:07'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: engineering
+- id: '025'
+  file: 25-Engineering- 2026-09-15.mp4
+  size_bytes: 72419331
+  recorded_end: '2026-09-15T17:05:09'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: engineering
+- id: '026'
+  file: 26-Engineering- 2026-09-15.mp4
+  size_bytes: 72377080
+  recorded_end: '2026-09-15T17:15:12'
+  duration: 00:09:59
+  duration_seconds: 599.967
+  day: '2026-09-15'
+  module: engineering
+- id: '027'
+  file: 27-Engineering- 2026-09-15.mp4
+  size_bytes: 97799639
+  recorded_end: '2026-09-15T17:25:15'
+  duration: 00:09:59
+  duration_seconds: 599.367
+  day: '2026-09-15'
+  module: engineering
+- id: 028
+  file: 28-Engineering- 2026-09-15.mp4
+  size_bytes: 62756827
+  recorded_end: '2026-09-15T17:35:16'
+  duration: 00:09:59
+  duration_seconds: 599.633
+  day: '2026-09-15'
+  module: engineering
+- id: 029
+  file: 29-Engineering- 2026-09-15.mp4
+  size_bytes: 64318778
+  recorded_end: '2026-09-15T17:45:17'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: engineering
+- id: '030'
+  file: 30-Engineering- 2026-09-15.mp4
+  size_bytes: 72230657
+  recorded_end: '2026-09-15T17:55:23'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: engineering
+- id: '031'
+  file: 31-Engineering- 2026-09-15.mp4
+  size_bytes: 152420187
+  recorded_end: '2026-09-15T18:05:26'
+  duration: 00:09:33
+  duration_seconds: 573.067
+  day: '2026-09-15'
+  module: engineering
+- id: '032'
+  file: 32-Engineering- 2026-09-15.mp4
+  size_bytes: 118352684
+  recorded_end: '2026-09-15T18:15:27'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: engineering
+- id: '033'
+  file: 33-Engineering- 2026-09-15.mp4
+  size_bytes: 88121228
+  recorded_end: '2026-09-15T18:25:52'
+  duration: 00:09:59
+  duration_seconds: 599.1
+  day: '2026-09-15'
+  module: engineering
+- id: '034'
+  file: 34-Engineering- 2026-09-15.mp4
+  size_bytes: 95379382
+  recorded_end: '2026-09-15T18:34:47'
+  duration: 00:08:54
+  duration_seconds: 534.533
+  day: '2026-09-15'
+  module: engineering
+- id: '035'
+  file: 35-Product Managers- 2026-09-15.mp4
+  size_bytes: 68690733
+  recorded_end: '2026-09-15T19:13:57'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: '036'
+  file: 36-Product Managers- 2026-09-15.mp4
+  size_bytes: 162941204
+  recorded_end: '2026-09-15T19:24:18'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: '037'
+  file: 37-Product Managers- 2026-09-15.mp4
+  size_bytes: 165470320
+  recorded_end: '2026-09-15T19:36:46'
+  duration: 00:09:59
+  duration_seconds: 599.3
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: 038
+  file: 38-Product Managers- 2026-09-15.mp4
+  size_bytes: 72871957
+  recorded_end: '2026-09-15T19:46:23'
+  duration: 00:09:35
+  duration_seconds: 575.2
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: 039
+  file: 39-Product Managers- 2026-09-15.mp4
+  size_bytes: 72930050
+  recorded_end: '2026-09-15T19:55:04'
+  duration: 00:08:40
+  duration_seconds: 520.4
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: '040'
+  file: 40-Product Managers- 2026-09-15.mp4
+  size_bytes: 90529710
+  recorded_end: '2026-09-15T20:05:03'
+  duration: 00:09:54
+  duration_seconds: 594.633
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: '041'
+  file: 41-Product Managers- 2026-09-15.mp4
+  size_bytes: 63799823
+  recorded_end: '2026-09-15T20:15:00'
+  duration: 00:09:55
+  duration_seconds: 595.533
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: '042'
+  file: 42-Product Managers- 2026-09-15.mp4
+  size_bytes: 70738052
+  recorded_end: '2026-09-15T20:25:01'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: '043'
+  file: 43-Product Managers- 2026-09-15.mp4
+  size_bytes: 69178234
+  recorded_end: '2026-09-15T20:38:10'
+  duration: 00:09:54
+  duration_seconds: 594.267
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: '044'
+  file: 44-Product Managers- 2026-09-15.mp4
+  size_bytes: 81299795
+  recorded_end: '2026-09-15T20:48:10'
+  duration: 00:09:58
+  duration_seconds: 598.867
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: '045'
+  file: 45-Product Managers- 2026-09-15.mp4
+  size_bytes: 72860972
+  recorded_end: '2026-09-15T20:58:11'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: '046'
+  file: 46-Product Managers- 2026-09-15.mp4
+  size_bytes: 72203279
+  recorded_end: '2026-09-15T21:08:30'
+  duration: 00:09:57
+  duration_seconds: 597.9
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: '047'
+  file: 47-Product Managers- 2026-09-15.mp4
+  size_bytes: 122427881
+  recorded_end: '2026-09-15T21:18:21'
+  duration: 00:09:49
+  duration_seconds: 589.433
+  day: '2026-09-15'
+  module: engineering
+  filename_module: product-managers
+  classification_note: '2026-09-22: primary content classification from aligned timeline,
+    not filename label.'
+- id: 048
+  file: 48-Product Managers- 2026-09-15.mp4
+  size_bytes: 63021506
+  recorded_end: '2026-09-15T21:27:50'
+  duration: 00:09:27
+  duration_seconds: 567.667
+  day: '2026-09-15'
+  module: product-managers
+- id: 049
+  file: 49-Product Managers- 2026-09-15.mp4
+  size_bytes: 100796746
+  recorded_end: '2026-09-15T21:37:05'
+  duration: 00:09:14
+  duration_seconds: 554.133
+  day: '2026-09-15'
+  module: product-managers
+- id: '050'
+  file: 50-Product Managers- 2026-09-15.mp4
+  size_bytes: 77799974
+  recorded_end: '2026-09-15T21:47:06'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: product-managers
+- id: '051'
+  file: 51-Product Managers- 2026-09-15.mp4
+  size_bytes: 106220292
+  recorded_end: '2026-09-15T21:53:20'
+  duration: 00:06:10
+  duration_seconds: 370.3
+  day: '2026-09-15'
+  module: product-managers
+- id: '052'
+  file: 52-Founders- 2026-09-15.mp4
+  size_bytes: 124416483
+  recorded_end: '2026-09-15T22:04:13'
+  duration: 00:09:57
+  duration_seconds: 597.733
+  day: '2026-09-15'
+  module: founders
+- id: '053'
+  file: 53-Founders- 2026-09-15.mp4
+  size_bytes: 77028543
+  recorded_end: '2026-09-15T22:14:15'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: founders
+- id: '054'
+  file: 54-Founders- 2026-09-15.mp4
+  size_bytes: 79595717
+  recorded_end: '2026-09-15T22:25:08'
+  duration: 00:09:59
+  duration_seconds: 599.233
+  day: '2026-09-15'
+  module: founders
+- id: '055'
+  file: 55-Founders- 2026-09-15.mp4
+  size_bytes: 109187342
+  recorded_end: '2026-09-15T22:35:09'
+  duration: 00:09:59
+  duration_seconds: 599.733
+  day: '2026-09-15'
+  module: founders
+- id: '056'
+  file: 56-Founders- 2026-09-15.mp4
+  size_bytes: 117229992
+  recorded_end: '2026-09-15T22:45:10'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: founders
+- id: '057'
+  file: 57-Founders- 2026-09-15.mp4
+  size_bytes: 87989053
+  recorded_end: '2026-09-15T22:56:17'
+  duration: 00:09:59
+  duration_seconds: 599.367
+  day: '2026-09-15'
+  module: founders
+- id: 058
+  file: 58-Founders- 2026-09-15.mp4
+  size_bytes: 84989871
+  recorded_end: '2026-09-15T23:06:17'
+  duration: 00:09:59
+  duration_seconds: 599.133
+  day: '2026-09-15'
+  module: founders
+- id: 059
+  file: 59-Founders- 2026-09-15.mp4
+  size_bytes: 184302742
+  recorded_end: '2026-09-15T23:16:17'
+  duration: 00:09:59
+  duration_seconds: 599.433
+  day: '2026-09-15'
+  module: founders
+- id: '060'
+  file: 60-Founders- 2026-09-15.mp4
+  size_bytes: 589299941
+  recorded_end: '2026-09-15T23:26:18'
+  duration: 00:09:59
+  duration_seconds: 599.233
+  day: '2026-09-15'
+  module: founders
+- id: '061'
+  file: 61-Founders- 2026-09-15.mp4
+  size_bytes: 382060252
+  recorded_end: '2026-09-15T23:36:15'
+  duration: 00:09:56
+  duration_seconds: 596.767
+  day: '2026-09-15'
+  module: founders
+- id: '062'
+  file: 62-Founders- 2026-09-15.mp4
+  size_bytes: 128107182
+  recorded_end: '2026-09-15T23:46:11'
+  duration: 00:09:55
+  duration_seconds: 595.2
+  day: '2026-09-15'
+  module: founders
+- id: '063'
+  file: 63-Founders- 2026-09-15.mp4
+  size_bytes: 131416281
+  recorded_end: '2026-09-15T23:56:13'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-15'
+  module: founders
+- id: '064'
+  file: 64-Founders- 2026-09-15.mp4
+  size_bytes: 25309113
+  recorded_end: '2026-09-15T23:58:00'
+  duration: 00:01:45
+  duration_seconds: 105.2
+  day: '2026-09-15'
+  module: founders
+- id: '065'
+  file: 1-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 61064901
+  recorded_end: '2026-09-16T12:50:26'
+  duration: 00:09:59
+  duration_seconds: 599.367
+  day: '2026-09-16'
+  module: sales-engineering
+- id: '066'
+  file: 2-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 57141094
+  recorded_end: '2026-09-16T13:00:26'
+  duration: 00:09:58
+  duration_seconds: 598.8
+  day: '2026-09-16'
+  module: sales-engineering
+- id: '067'
+  file: 3-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 62266810
+  recorded_end: '2026-09-16T13:09:55'
+  duration: 00:09:27
+  duration_seconds: 567.4
+  day: '2026-09-16'
+  module: sales-engineering
+- id: 068
+  file: 4-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 89286272
+  recorded_end: '2026-09-16T13:19:39'
+  duration: 00:09:43
+  duration_seconds: 583.367
+  day: '2026-09-16'
+  module: sales-engineering
+- id: 069
+  file: 5-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 78066452
+  recorded_end: '2026-09-16T13:29:40'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales-engineering
+- id: '070'
+  file: 6-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 118918673
+  recorded_end: '2026-09-16T13:41:28'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales-engineering
+- id: '071'
+  file: 7-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 214876293
+  recorded_end: '2026-09-16T13:52:31'
+  duration: 00:09:36
+  duration_seconds: 576.467
+  day: '2026-09-16'
+  module: sales-engineering
+- id: '072'
+  file: 8-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 93042935
+  recorded_end: '2026-09-16T14:01:05'
+  duration: 00:08:33
+  duration_seconds: 513.333
+  day: '2026-09-16'
+  module: sales-engineering
+- id: '073'
+  file: 9-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 70614021
+  recorded_end: '2026-09-16T14:11:07'
+  duration: 00:09:59
+  duration_seconds: 599.833
+  day: '2026-09-16'
+  module: sales-engineering
+- id: '074'
+  file: 10-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 10467607
+  recorded_end: '2026-09-16T14:12:13'
+  duration: 00:01:05
+  duration_seconds: 65.267
+  day: '2026-09-16'
+  module: sales-engineering
+- id: '075'
+  file: 11-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 72715009
+  recorded_end: '2026-09-16T14:29:51'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales-engineering
+- id: '076'
+  file: 12-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 59198008
+  recorded_end: '2026-09-16T14:40:54'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales-engineering
+- id: '077'
+  file: 13-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 152515165
+  recorded_end: '2026-09-16T14:50:56'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales-engineering
+- id: 078
+  file: 14-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 78892976
+  recorded_end: '2026-09-16T15:01:00'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales-engineering
+- id: 079
+  file: 15-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 151847208
+  recorded_end: '2026-09-16T15:19:50'
+  duration: 00:09:59
+  duration_seconds: 599.8
+  day: '2026-09-16'
+  module: sales-engineering
+- id: 080
+  file: 16-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 140233303
+  recorded_end: '2026-09-16T15:29:50'
+  duration: 00:09:59
+  duration_seconds: 599.233
+  day: '2026-09-16'
+  module: sales-engineering
+- id: 081
+  file: 17-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 69798855
+  recorded_end: '2026-09-16T15:35:48'
+  duration: 00:05:57
+  duration_seconds: 357.3
+  day: '2026-09-16'
+  module: sales-engineering
+- id: 082
+  file: 18-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 65106054
+  recorded_end: '2026-09-16T15:52:16'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales-engineering
+- id: 083
+  file: 19-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 53599146
+  recorded_end: '2026-09-16T16:02:18'
+  duration: 00:09:58
+  duration_seconds: 598.067
+  day: '2026-09-16'
+  module: sales-engineering
+- id: 084
+  file: 20-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 57305010
+  recorded_end: '2026-09-16T16:12:18'
+  duration: 00:09:59
+  duration_seconds: 599.333
+  day: '2026-09-16'
+  module: sales-engineering
+- id: 085
+  file: 21-Sales Engineering- 2026-09-16.mp4
+  size_bytes: 61058320
+  recorded_end: '2026-09-16T16:22:19'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales-engineering
+- id: 086
+  file: 22-Sales- 2026-09-16.mp4
+  size_bytes: 109411595
+  recorded_end: '2026-09-16T16:31:59'
+  duration: 00:09:32
+  duration_seconds: 572.933
+  day: '2026-09-16'
+  module: sales
+- id: 087
+  file: 23-Sales- 2026-09-16.mp4
+  size_bytes: 64963640
+  recorded_end: '2026-09-16T16:42:00'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales
+- id: 088
+  file: 24-Sales- 2026-09-16.mp4
+  size_bytes: 79355310
+  recorded_end: '2026-09-16T16:52:11'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales
+- id: 089
+  file: 25-Sales- 2026-09-16.mp4
+  size_bytes: 210323528
+  recorded_end: '2026-09-16T16:59:37'
+  duration: 00:07:23
+  duration_seconds: 443.433
+  day: '2026-09-16'
+  module: sales
+- id: 090
+  file: 26-Sales- 2026-09-16.mp4
+  size_bytes: 183441947
+  recorded_end: '2026-09-16T17:09:38'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales
+- id: 091
+  file: 27-Sales- 2026-09-16.mp4
+  size_bytes: 166273918
+  recorded_end: '2026-09-16T17:30:30'
+  duration: 00:09:37
+  duration_seconds: 577.2
+  day: '2026-09-16'
+  module: sales
+- id: 092
+  file: 28-Sales- 2026-09-16.mp4
+  size_bytes: 173293129
+  recorded_end: '2026-09-16T17:40:31'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales
+- id: 093
+  file: 29-Sales- 2026-09-16.mp4
+  size_bytes: 29821741
+  recorded_end: '2026-09-16T17:43:35'
+  duration: 00:03:00
+  duration_seconds: 180.3
+  day: '2026-09-16'
+  module: sales
+- id: 094
+  file: 30-Sales- 2026-09-16.mp4
+  size_bytes: 125557076
+  recorded_end: '2026-09-16T17:53:40'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sales
+- id: 095
+  file: 31-Sales- 2026-09-16.mp4
+  size_bytes: 149172961
+  recorded_end: '2026-09-16T18:03:41'
+  duration: 00:09:58
+  duration_seconds: 598.8
+  day: '2026-09-16'
+  module: sales
+- id: 096
+  file: 32-SDRs- 2026-09-16.mp4
+  size_bytes: 104801335
+  recorded_end: '2026-09-16T18:13:43'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sdrs
+- id: 097
+  file: 33-SDRs- 2026-09-16.mp4
+  size_bytes: 64218053
+  recorded_end: '2026-09-16T18:23:53'
+  duration: 00:09:59
+  duration_seconds: 599.167
+  day: '2026-09-16'
+  module: sdrs
+- id: 098
+  file: 34-SDRs- 2026-09-16.mp4
+  size_bytes: 91822412
+  recorded_end: '2026-09-16T18:33:54'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sdrs
+- id: 099
+  file: 35-SDRs- 2026-09-16.mp4
+  size_bytes: 72057364
+  recorded_end: '2026-09-16T18:45:10'
+  duration: 00:09:59
+  duration_seconds: 599.5
+  day: '2026-09-16'
+  module: sdrs
+- id: '100'
+  file: 36-SDRs- 2026-09-16.mp4
+  size_bytes: 91494487
+  recorded_end: '2026-09-16T18:55:10'
+  duration: 00:09:59
+  duration_seconds: 599.233
+  day: '2026-09-16'
+  module: sdrs
+- id: '101'
+  file: 37-SDRs- 2026-09-16.mp4
+  size_bytes: 93594228
+  recorded_end: '2026-09-16T19:05:10'
+  duration: 00:09:59
+  duration_seconds: 599.533
+  day: '2026-09-16'
+  module: sdrs
+- id: '102'
+  file: 38-SDRs- 2026-09-16.mp4
+  size_bytes: 149402311
+  recorded_end: '2026-09-16T19:15:11'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sdrs
+- id: '103'
+  file: 39-SDRs- 2026-09-16.mp4
+  size_bytes: 96599896
+  recorded_end: '2026-09-16T19:25:24'
+  duration: 00:09:59
+  duration_seconds: 599.3
+  day: '2026-09-16'
+  module: sdrs
+- id: '104'
+  file: 40-2026-09-16.mp4
+  size_bytes: 76210526
+  recorded_end: '2026-09-16T19:35:24'
+  duration: 00:09:58
+  duration_seconds: 598.933
+  day: '2026-09-16'
+  module: sdrs
+  label_missing: false
+  raw_label: null
+- id: '105'
+  file: 41-SDRs- 2026-09-16.mp4
+  size_bytes: 74431918
+  recorded_end: '2026-09-16T19:45:19'
+  duration: 00:09:54
+  duration_seconds: 594.867
+  day: '2026-09-16'
+  module: sdrs
+- id: '106'
+  file: 42-SDRs- 2026-09-16.mp4
+  size_bytes: 74447098
+  recorded_end: '2026-09-16T19:55:20'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: sdrs
+- id: '107'
+  file: 43-SDRs- 2026-09-16.mp4
+  size_bytes: 44928472
+  recorded_end: '2026-09-16T20:01:20'
+  duration: 00:05:42
+  duration_seconds: 342.5
+  day: '2026-09-16'
+  module: sdrs
+- id: '108'
+  file: 44-Customer Support- 2026-09-16.mp4
+  size_bytes: 52889134
+  recorded_end: '2026-09-16T20:11:14'
+  duration: 00:09:52
+  duration_seconds: 592.467
+  day: '2026-09-16'
+  module: customer-support
+- id: '109'
+  file: 45-Customer Support- 2026-09-16.mp4
+  size_bytes: 56936183
+  recorded_end: '2026-09-16T20:21:15'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: customer-support
+- id: '110'
+  file: 46-Customer Support- 2026-09-16.mp4
+  size_bytes: 108102821
+  recorded_end: '2026-09-16T20:31:52'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-16'
+  module: customer-support
+- id: '111'
+  file: 47-Customer Support- 2026-09-16.mp4
+  size_bytes: 104247664
+  recorded_end: '2026-09-16T20:45:01'
+  duration: 00:03:36
+  duration_seconds: 216.267
+  day: '2026-09-16'
+  module: customer-support
+- id: '112'
+  file: 48-Customer Support- 2026-09-16.mp4
+  size_bytes: 82118251
+  recorded_end: '2026-09-17T10:40:25'
+  duration: 00:09:34
+  duration_seconds: 574.333
+  day: '2026-09-16'
+  module: customer-support
+- id: '113'
+  file: 1-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 76074946
+  recorded_end: '2026-09-17T12:50:12'
+  duration: 00:09:59
+  duration_seconds: 599.567
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '114'
+  file: 2-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 61433305
+  recorded_end: '2026-09-17T12:59:06'
+  duration: 00:08:53
+  duration_seconds: 533.533
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '115'
+  file: 3-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 74699821
+  recorded_end: '2026-09-17T13:14:57'
+  duration: 00:09:59
+  duration_seconds: 599.333
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '116'
+  file: 4-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 64626785
+  recorded_end: '2026-09-17T13:24:57'
+  duration: 00:09:59
+  duration_seconds: 599.3
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '117'
+  file: 5-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 325083296
+  recorded_end: '2026-09-17T13:34:57'
+  duration: 00:09:58
+  duration_seconds: 598.6
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '118'
+  file: 6-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 1914747
+  recorded_end: '2026-09-17T13:35:02'
+  duration: 00:00:03
+  duration_seconds: 3.433
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '119'
+  file: 7-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 201732464
+  recorded_end: '2026-09-17T13:44:30'
+  duration: 00:09:09
+  duration_seconds: 549.533
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '120'
+  file: 8-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 111193157
+  recorded_end: '2026-09-17T14:02:04'
+  duration: 00:09:59
+  duration_seconds: 599.167
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '121'
+  file: 9-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 90700352
+  recorded_end: '2026-09-17T14:12:03'
+  duration: 00:09:58
+  duration_seconds: 598.767
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '122'
+  file: 10-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 103109279
+  recorded_end: '2026-09-17T14:22:05'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '123'
+  file: 11-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 58967636
+  recorded_end: '2026-09-17T14:34:03'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '124'
+  file: 12-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 53915794
+  recorded_end: '2026-09-17T14:44:09'
+  duration: 00:09:59
+  duration_seconds: 599.6
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '125'
+  file: 13-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 54991254
+  recorded_end: '2026-09-17T14:54:10'
+  duration: 00:09:59
+  duration_seconds: 599.967
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '126'
+  file: 14-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 65244503
+  recorded_end: '2026-09-17T15:04:14'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '127'
+  file: 15-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 46386501
+  recorded_end: '2026-09-17T15:09:01'
+  duration: 00:04:44
+  duration_seconds: 284.867
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '128'
+  file: 16-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 77471273
+  recorded_end: '2026-09-17T15:24:40'
+  duration: 00:09:54
+  duration_seconds: 594.6
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '129'
+  file: 17-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 48559321
+  recorded_end: '2026-09-17T15:34:42'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '130'
+  file: 18-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 85279997
+  recorded_end: '2026-09-17T15:45:00'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '131'
+  file: 19-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 96691285
+  recorded_end: '2026-09-17T16:03:48'
+  duration: 00:09:51
+  duration_seconds: 591.466
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '132'
+  file: 20-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 64321135
+  recorded_end: '2026-09-17T16:13:47'
+  duration: 00:09:58
+  duration_seconds: 598.61
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '133'
+  file: 21-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 64095317
+  recorded_end: '2026-09-17T16:23:48'
+  duration: 00:09:59
+  duration_seconds: 599.433
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '134'
+  file: 22-Marketing Operations- 2026-09-17.mp4
+  size_bytes: 31726191
+  recorded_end: '2026-09-17T16:27:54'
+  duration: 00:04:05
+  duration_seconds: 245.267
+  day: '2026-09-17'
+  module: marketing-operations
+- id: '135'
+  file: 23-Post Sales- 2026-09-17.mp4
+  size_bytes: 116902368
+  recorded_end: '2026-09-17T16:37:55'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-17'
+  module: post-sales
+- id: '136'
+  file: 24-Post Sales- 2026-09-17.mp4
+  size_bytes: 116036602
+  recorded_end: '2026-09-17T16:48:56'
+  duration: 00:09:54
+  duration_seconds: 594.433
+  day: '2026-09-17'
+  module: post-sales
+- id: '137'
+  file: 25-Post Sales- 2026-09-17.mp4
+  size_bytes: 53696124
+  recorded_end: '2026-09-17T16:53:18'
+  duration: 00:04:21
+  duration_seconds: 261.1
+  day: '2026-09-17'
+  module: post-sales
+- id: '138'
+  file: 26-Post Sales- 2026-09-17.mp4
+  size_bytes: 258130317
+  recorded_end: '2026-09-17T17:03:19'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-17'
+  module: post-sales
+- id: '139'
+  file: 27-Post Sales- 2026-09-17.mp4
+  size_bytes: 309332647
+  recorded_end: '2026-09-17T17:13:22'
+  duration: 00:09:59
+  duration_seconds: 599.067
+  day: '2026-09-17'
+  module: post-sales
+- id: '140'
+  file: 28-Post Sales- 2026-09-17.mp4
+  size_bytes: 144686714
+  recorded_end: '2026-09-17T17:17:48'
+  duration: 00:04:24
+  duration_seconds: 264.5
+  day: '2026-09-17'
+  module: post-sales
+- id: '141'
+  file: 29-Marketing- 2026-09-17.mp4
+  size_bytes: 76669300
+  recorded_end: '2026-09-17T17:38:18'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-17'
+  module: marketing
+- id: '142'
+  file: 30-Marketing- 2026-09-17.mp4
+  size_bytes: 89671919
+  recorded_end: '2026-09-17T17:48:20'
+  duration: 00:09:58
+  duration_seconds: 598.433
+  day: '2026-09-17'
+  module: marketing
+- id: '143'
+  file: 31-Marketing- 2026-09-17.mp4
+  size_bytes: 132359976
+  recorded_end: '2026-09-17T17:58:07'
+  duration: 00:09:46
+  duration_seconds: 586.267
+  day: '2026-09-17'
+  module: marketing
+- id: '144'
+  file: 32-Marketing- 2026-09-17.mp4
+  size_bytes: 119065210
+  recorded_end: '2026-09-17T18:08:06'
+  duration: 00:09:58
+  duration_seconds: 598.333
+  day: '2026-09-17'
+  module: marketing
+- id: '145'
+  file: 33-Marketing- 2026-09-17.mp4
+  size_bytes: 93157863
+  recorded_end: '2026-09-17T18:18:06'
+  duration: 00:09:58
+  duration_seconds: 598.8
+  day: '2026-09-17'
+  module: marketing
+- id: '146'
+  file: 34-Marketing- 2026-09-17.mp4
+  size_bytes: 63133938
+  recorded_end: '2026-09-17T18:26:40'
+  duration: 00:08:33
+  duration_seconds: 513.833
+  day: '2026-09-17'
+  module: marketing
+- id: '147'
+  file: 35-Marketing- 2026-09-17.mp4
+  size_bytes: 133168036
+  recorded_end: '2026-09-17T18:36:38'
+  duration: 00:09:56
+  duration_seconds: 596.5
+  day: '2026-09-17'
+  module: marketing
+- id: '148'
+  file: 36-Marketing- 2026-09-17.mp4
+  size_bytes: 61283323
+  recorded_end: '2026-09-17T18:46:35'
+  duration: 00:09:56
+  duration_seconds: 596.433
+  day: '2026-09-17'
+  module: marketing
+- id: '149'
+  file: 37-Marketing- 2026-09-17.mp4
+  size_bytes: 55717508
+  recorded_end: '2026-09-17T18:56:35'
+  duration: 00:09:58
+  duration_seconds: 598.933
+  day: '2026-09-17'
+  module: marketing
+- id: '150'
+  file: 38-Marketing- 2026-09-17.mp4
+  size_bytes: 78542223
+  recorded_end: '2026-09-17T19:06:35'
+  duration: 00:09:58
+  duration_seconds: 598.667
+  day: '2026-09-17'
+  module: marketing
+- id: '151'
+  file: 39-Marketing- 2026-09-17.mp4
+  size_bytes: 349038121
+  recorded_end: '2026-09-17T19:16:12'
+  duration: 00:09:36
+  duration_seconds: 576.333
+  day: '2026-09-17'
+  module: marketing
+- id: '152'
+  file: 40-Marketing- 2026-09-17.mp4
+  size_bytes: 206106931
+  recorded_end: '2026-09-17T19:26:11'
+  duration: 00:09:58
+  duration_seconds: 598.3
+  day: '2026-09-17'
+  module: marketing
+- id: '153'
+  file: 41-Marketing- 2026-09-17.mp4
+  size_bytes: 91303860
+  recorded_end: '2026-09-17T19:33:53'
+  duration: 00:07:40
+  duration_seconds: 460.767
+  day: '2026-09-17'
+  module: marketing
+- id: '154'
+  file: 42-Marketing- 2026-09-17.mp4
+  size_bytes: 92489540
+  recorded_end: '2026-09-17T21:11:26'
+  duration: 00:09:07
+  duration_seconds: 547.5
+  day: '2026-09-17'
+  module: marketing
+- id: '155'
+  file: 43-Marketing- 2026-09-17.mp4
+  size_bytes: 100662359
+  recorded_end: '2026-09-17T21:22:33'
+  duration: 00:09:59
+  duration_seconds: 600.0
+  day: '2026-09-17'
+  module: marketing
+- id: '156'
+  file: 44-Marketing- 2026-09-17.mp4
+  size_bytes: 117996436
+  recorded_end: '2026-09-17T21:35:13'
+  duration: 00:09:58
+  duration_seconds: 598.967
+  day: '2026-09-17'
+  module: marketing
+- id: '157'
+  file: 45-Marketing- 2026-09-17.mp4
+  size_bytes: 121466973
+  recorded_end: '2026-09-17T21:45:12'
+  duration: 00:09:57
+  duration_seconds: 597.767
+  day: '2026-09-17'
+  module: marketing
 modules:
-  bienvenida: {clips: ["01", "02", "03"], title: "Bienvenida"}
-  grok-bot-101: {clips: ["03", "04", "05", "06", "07", "08", "09"], title: "Grok Bot 101"}
-  engineering: {clips: ["10", "11", "12", "13", "14", "15", "16", "17", "18"], title: "Engineering"}
+  bienvenida:
+    title: Bienvenida
+    day: '2026-09-15'
+    clips:
+    - '01'
+    - '02'
+  bienvenida-to-101:
+    title: Bienvenida To 101
+    day: '2026-09-15'
+    clips:
+    - '03'
+  grok-bot-101:
+    title: Grok Bot 101
+    day: '2026-09-15'
+    clips:
+    - '04'
+    - '05'
+    - '06'
+    - '07'
+    - 08
+    - 09
+  engineering:
+    title: Engineering
+    day: '2026-09-15'
+    clips:
+    - '10'
+    - '11'
+    - '12'
+    - '13'
+    - '14'
+    - '15'
+    - '16'
+    - '17'
+    - '18'
+    - 019
+    - '020'
+    - '021'
+    - '022'
+    - '023'
+    - '024'
+    - '025'
+    - '026'
+    - '027'
+    - 028
+    - 029
+    - '030'
+    - '031'
+    - '032'
+    - '033'
+    - '034'
+    - '035'
+    - '036'
+    - '037'
+    - 038
+    - 039
+    - '040'
+    - '041'
+    - '042'
+    - '043'
+    - '044'
+    - '045'
+    - '046'
+    - '047'
+  product-managers:
+    title: Product Managers
+    day: '2026-09-15'
+    clips:
+    - 048
+    - 049
+    - '050'
+    - '051'
+  founders:
+    title: Founders
+    day: '2026-09-15'
+    clips:
+    - '052'
+    - '053'
+    - '054'
+    - '055'
+    - '056'
+    - '057'
+    - 058
+    - 059
+    - '060'
+    - '061'
+    - '062'
+    - '063'
+    - '064'
+  sales-engineering:
+    title: Sales Engineering
+    day: '2026-09-16'
+    clips:
+    - '065'
+    - '066'
+    - '067'
+    - 068
+    - 069
+    - '070'
+    - '071'
+    - '072'
+    - '073'
+    - '074'
+    - '075'
+    - '076'
+    - '077'
+    - 078
+    - 079
+    - 080
+    - 081
+    - 082
+    - 083
+    - 084
+    - 085
+  sales:
+    title: Sales
+    day: '2026-09-16'
+    clips:
+    - 086
+    - 087
+    - 088
+    - 089
+    - 090
+    - 091
+    - 092
+    - 093
+    - 094
+    - 095
+  sdrs:
+    title: Sdrs
+    day: '2026-09-16'
+    clips:
+    - 096
+    - 097
+    - 098
+    - 099
+    - '100'
+    - '101'
+    - '102'
+    - '103'
+    - '104'
+    - '105'
+    - '106'
+    - '107'
+  customer-support:
+    title: Customer Support
+    day: '2026-09-16'
+    clips:
+    - '108'
+    - '109'
+    - '110'
+    - '111'
+    - '112'
+  marketing-operations:
+    title: Marketing Operations
+    day: '2026-09-17'
+    clips:
+    - '113'
+    - '114'
+    - '115'
+    - '116'
+    - '117'
+    - '118'
+    - '119'
+    - '120'
+    - '121'
+    - '122'
+    - '123'
+    - '124'
+    - '125'
+    - '126'
+    - '127'
+    - '128'
+    - '129'
+    - '130'
+    - '131'
+    - '132'
+    - '133'
+    - '134'
+  post-sales:
+    title: Post Sales
+    day: '2026-09-17'
+    clips:
+    - '135'
+    - '136'
+    - '137'
+    - '138'
+    - '139'
+    - '140'
+  marketing:
+    title: Marketing
+    day: '2026-09-17'
+    clips:
+    - '141'
+    - '142'
+    - '143'
+    - '144'
+    - '145'
+    - '146'
+    - '147'
+    - '148'
+    - '149'
+    - '150'
+    - '151'
+    - '152'
+    - '153'
+    - '154'
+    - '155'
+    - '156'
+    - '157'
+manifest:
+  generated: '2026-09-17T21:54:58'
+  total_clips: 157
+  total_duration_seconds: 87357.33
+  total_duration_h: 24.27
+  recent_mtime_possible_live: []
+  missing_label: []
+  reviewed_on: '2026-09-22'
+  duration_basis: Precise duration_seconds when available; recorded HH:MM:SS for initial
+    clips. Includes replays and breaks.
+editorial_notes:
+- '2026-09-22: module membership is an exact partition by primary content. Clip03
+  is a welcome/101 transition; clip047 transitions from engineering to PM at about05:12.'
+- '2026-09-22: replay clips030-042 include engineering content despite misleading
+  filename labels. Clip104 is SDR content.'
+- '2026-09-22: duration total now includes initial18 clips previously omitted by the
+  sum of duration_seconds alone.'

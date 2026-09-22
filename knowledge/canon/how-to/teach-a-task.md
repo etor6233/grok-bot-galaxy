@@ -9,3 +9,5 @@ Source: clip 05 ~00:05:03–00:06:36. Bot: **Slide Sonya**.
 5. The recording becomes a **skill**. Later you can say “add that animation I showed you” to text or an image.
 
 Also: put standing instructions in the bot **description** (font, colors; always screenshot the finished slide and send it back).
+
+Evidence: [05](../../timelines/05.md).

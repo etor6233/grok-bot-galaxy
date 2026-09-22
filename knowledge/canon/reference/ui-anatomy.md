@@ -36,3 +36,5 @@ Source: clip 04 “Introducing Grok Bot” product screenshot (~00:00:06–00:03
 ## Integrations named on this screen
 
 Hex, Gmail, LinkedIn, Salesforce, Sumble, Google Sheet.
+
+Evidence: [04](../../timelines/04.md).

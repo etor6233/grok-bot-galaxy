@@ -1,0 +1,3175 @@
+{
+  "schema_version": 1,
+  "scope": "Grok Bot Galaxy, 2026-09-15 through 2026-09-17",
+  "retrieval": "Use llms.txt and knowledge/ROUTES.md first; search.py returns bounded excerpts.",
+  "documents": [
+    {
+      "path": "knowledge/canon/explanation/ai-maturity-curve.md",
+      "title": "AI Maturity Curve",
+      "kind": "canon",
+      "words": 122,
+      "category": "explanation",
+      "clips": [
+        "04"
+      ]
+    },
+    {
+      "path": "knowledge/canon/explanation/why-a-fleet-of-bots.md",
+      "title": "Why a fleet of bots (one bot vs many)",
+      "kind": "canon",
+      "words": 471,
+      "category": "explanation",
+      "clips": [
+        "023",
+        "025",
+        "048",
+        "049",
+        "051",
+        "059",
+        "060",
+        "061"
+      ]
+    },
+    {
+      "path": "knowledge/canon/explanation/why-grok-bot.md",
+      "title": "Why Grok Bot",
+      "kind": "canon",
+      "words": 261,
+      "category": "explanation",
+      "clips": [
+        "04"
+      ]
+    },
+    {
+      "path": "knowledge/canon/glossary.md",
+      "title": "Glossary",
+      "kind": "canon",
+      "words": 844,
+      "category": "reference",
+      "clips": [
+        "068",
+        "096",
+        "113",
+        "116",
+        "119",
+        "122",
+        "132",
+        "134",
+        "135",
+        "136",
+        "152",
+        "153",
+        "154",
+        "155",
+        "156",
+        "157"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/agent-to-agent.md",
+      "title": "How bots talk to each other",
+      "kind": "canon",
+      "words": 154,
+      "category": "how-to",
+      "clips": [
+        "06"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/approvals-and-rules.md",
+      "title": "Approvals and auto-review rules",
+      "kind": "canon",
+      "words": 214,
+      "category": "how-to",
+      "clips": [
+        "05",
+        "06",
+        "152"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/build-a-growth-playbook.md",
+      "title": "Capture and prioritize a growth playbook",
+      "kind": "canon",
+      "words": 401,
+      "category": "how-to",
+      "clips": [
+        "128",
+        "129",
+        "130",
+        "142"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/build-and-maintain-verification.md",
+      "title": "Build a reusable verification loop",
+      "kind": "canon",
+      "words": 596,
+      "category": "how-to",
+      "clips": [
+        "025",
+        "026",
+        "027",
+        "028",
+        "043",
+        "045",
+        "046",
+        "047"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/build-crm-lead-review-tool.md",
+      "title": "Build a CRM lead-review tool with PM and engineering bots",
+      "kind": "canon",
+      "words": 342,
+      "category": "how-to",
+      "clips": [
+        "116",
+        "119"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/connect-marketplace-and-x.md",
+      "title": "Connect Marketplace plugins (X, p-stack)",
+      "kind": "canon",
+      "words": 293,
+      "category": "how-to",
+      "clips": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "022"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/create-a-bot.md",
+      "title": "How to create a bot",
+      "kind": "canon",
+      "words": 140,
+      "category": "how-to",
+      "clips": [
+        "05"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/define-icp-and-plan-outreach.md",
+      "title": "Define an ICP and prepare an outreach workflow",
+      "kind": "canon",
+      "words": 418,
+      "category": "how-to",
+      "clips": [
+        "132",
+        "133",
+        "134"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/escalate-urgent-work-p0.md",
+      "title": "Escalate urgent work with a P0 monitor routine",
+      "kind": "canon",
+      "words": 341,
+      "category": "how-to",
+      "clips": [
+        "024",
+        "025",
+        "026"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/group-chats-and-sections.md",
+      "title": "Group chats and sections",
+      "kind": "canon",
+      "words": 110,
+      "category": "how-to",
+      "clips": [
+        "07"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/hire-bots-as-employees.md",
+      "title": "Hire bots as employees",
+      "kind": "canon",
+      "words": 136,
+      "category": "how-to",
+      "clips": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/improve-bot-system-with-feedback.md",
+      "title": "Improve a bot system while keeping it lean",
+      "kind": "canon",
+      "words": 483,
+      "category": "how-to",
+      "clips": [
+        "138",
+        "139",
+        "140",
+        "146",
+        "151"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/maintain-a-shared-playbook.md",
+      "title": "Maintain shared bot rules without repeating them",
+      "kind": "canon",
+      "words": 369,
+      "category": "how-to",
+      "clips": [
+        "025",
+        "026",
+        "043",
+        "045"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/monitor-a-product-launch.md",
+      "title": "Monitor a product launch with a data bot",
+      "kind": "canon",
+      "words": 556,
+      "category": "how-to",
+      "clips": [
+        "122",
+        "123",
+        "124",
+        "133",
+        "141",
+        "152",
+        "157"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/onboard-a-new-bot-bot-to-bot.md",
+      "title": "Onboard a new bot, bot-to-bot",
+      "kind": "canon",
+      "words": 291,
+      "category": "how-to",
+      "clips": [
+        "024",
+        "025"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/operate-a-bot-team.md",
+      "title": "Coordinate a bot team around shared evidence",
+      "kind": "canon",
+      "words": 707,
+      "category": "how-to",
+      "clips": [
+        "071",
+        "072",
+        "073",
+        "075",
+        "077",
+        "082",
+        "083",
+        "084",
+        "101",
+        "103",
+        "104",
+        "105",
+        "106",
+        "107",
+        "108",
+        "112"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/orchestrate-marketing-campaign.md",
+      "title": "Orchestrate a marketing campaign across specialist bots",
+      "kind": "canon",
+      "words": 520,
+      "category": "how-to",
+      "clips": [
+        "148",
+        "149",
+        "150",
+        "152"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/orchestrator-manager.md",
+      "title": "How to add a manager / orchestrator bot",
+      "kind": "canon",
+      "words": 93,
+      "category": "how-to",
+      "clips": [
+        "08"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/plan-an-event-with-bots.md",
+      "title": "Prepare an event plan with specialist bots",
+      "kind": "canon",
+      "words": 418,
+      "category": "how-to",
+      "clips": [
+        "046",
+        "061",
+        "062",
+        "063"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/reduce-bot-token-use.md",
+      "title": "Reduce repeated work and bot token use",
+      "kind": "canon",
+      "words": 950,
+      "category": "how-to",
+      "clips": [
+        "026",
+        "028",
+        "051",
+        "059",
+        "060",
+        "072",
+        "087",
+        "089",
+        "101",
+        "102",
+        "104",
+        "110",
+        "111"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/research-and-scope-a-new-business.md",
+      "title": "Research and scope a business before automating it",
+      "kind": "canon",
+      "words": 450,
+      "category": "how-to",
+      "clips": [
+        "020",
+        "021",
+        "029",
+        "043",
+        "045",
+        "046",
+        "054",
+        "064"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/run-a-founder-bot-team.md",
+      "title": "Delegate founder work to a persistent bot team",
+      "kind": "canon",
+      "words": 524,
+      "category": "how-to",
+      "clips": [
+        "056",
+        "057",
+        "058",
+        "059",
+        "061"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/run-customer-support.md",
+      "title": "Run support with a knowledge base and handoffs",
+      "kind": "canon",
+      "words": 700,
+      "category": "how-to",
+      "clips": [
+        "108",
+        "109",
+        "110",
+        "111"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/run-nightly-code-cleanup.md",
+      "title": "Run a nightly code cleanup",
+      "kind": "canon",
+      "words": 345,
+      "category": "how-to",
+      "clips": [
+        "024",
+        "025"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/run-post-sales-desk.md",
+      "title": "Run a post-sales desk through one chief of staff",
+      "kind": "canon",
+      "words": 487,
+      "category": "how-to",
+      "clips": [
+        "135",
+        "136",
+        "137",
+        "138"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/run-revops-task-handoffs.md",
+      "title": "Route RevOps requests from inbox to specialist",
+      "kind": "canon",
+      "words": 388,
+      "category": "how-to",
+      "clips": [
+        "115",
+        "117",
+        "131"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/run-sales-engineering.md",
+      "title": "Run a sales-engineering workflow",
+      "kind": "canon",
+      "words": 649,
+      "category": "how-to",
+      "clips": [
+        "068",
+        "069",
+        "070",
+        "071"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/run-sales-workflows.md",
+      "title": "Run sales workflows with specialist bots",
+      "kind": "canon",
+      "words": 560,
+      "category": "how-to",
+      "clips": [
+        "087",
+        "088",
+        "089",
+        "090"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/run-sdr-prospecting.md",
+      "title": "Build an SDR prospecting workflow",
+      "kind": "canon",
+      "words": 662,
+      "category": "how-to",
+      "clips": [
+        "099",
+        "100",
+        "101",
+        "102"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/share-duplicate-marketplace.md",
+      "title": "Share, duplicate, Marketplace",
+      "kind": "canon",
+      "words": 145,
+      "category": "how-to",
+      "clips": [
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/ship-with-cloud-agents.md",
+      "title": "Ship with Grok Bot + Cursor cloud agents",
+      "kind": "canon",
+      "words": 512,
+      "category": "how-to",
+      "clips": [
+        "13",
+        "18",
+        "043",
+        "049",
+        "050"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/steer-memory.md",
+      "title": "Steering and memory",
+      "kind": "canon",
+      "words": 149,
+      "category": "how-to",
+      "clips": [
+        "07",
+        "09",
+        "051"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/teach-a-task.md",
+      "title": "How to teach a task (skills)",
+      "kind": "canon",
+      "words": 100,
+      "category": "how-to",
+      "clips": [
+        "05"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/triage-feedback-and-verify-fixes.md",
+      "title": "Turn feedback into verified fixes",
+      "kind": "canon",
+      "words": 615,
+      "category": "how-to",
+      "clips": [
+        "113",
+        "124",
+        "126",
+        "127",
+        "142",
+        "143",
+        "153",
+        "155",
+        "157"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/turn-product-data-into-a-prd.md",
+      "title": "Turn product data into a reviewed prototype",
+      "kind": "canon",
+      "words": 598,
+      "category": "how-to",
+      "clips": [
+        "048",
+        "049",
+        "050",
+        "051"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/use-the-computer.md",
+      "title": "How to use a bot’s computer",
+      "kind": "canon",
+      "words": 196,
+      "category": "how-to",
+      "clips": [
+        "05",
+        "06",
+        "061"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/voice-brief-and-restate.md",
+      "title": "Voice-dump a brief, then force a restatement",
+      "kind": "canon",
+      "words": 90,
+      "category": "how-to",
+      "clips": [
+        "14"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/wire-pr-reviews-into-slack.md",
+      "title": "Wire PR reviews into Slack (the potato factory flow)",
+      "kind": "canon",
+      "words": 407,
+      "category": "how-to",
+      "clips": [
+        "18",
+        "022",
+        "027",
+        "028",
+        "043",
+        "046"
+      ]
+    },
+    {
+      "path": "knowledge/canon/reference/common-use-cases.md",
+      "title": "Common use cases",
+      "kind": "canon",
+      "words": 159,
+      "category": "reference",
+      "clips": [
+        "04"
+      ]
+    },
+    {
+      "path": "knowledge/canon/reference/day-1-memory-and-computer-limits.md",
+      "title": "Day 1 memory, computers, and sharing: evidence limits",
+      "kind": "canon",
+      "words": 411,
+      "category": "reference",
+      "clips": [
+        "05",
+        "06",
+        "18",
+        "022",
+        "043",
+        "049",
+        "050",
+        "051",
+        "053",
+        "060",
+        "061"
+      ]
+    },
+    {
+      "path": "knowledge/canon/reference/day-2-workflows.md",
+      "title": "Day 2 workflow and evidence map",
+      "kind": "canon",
+      "words": 1097,
+      "category": "reference",
+      "clips": [
+        "065",
+        "066",
+        "067",
+        "068",
+        "071",
+        "073",
+        "075",
+        "077",
+        "079",
+        "081",
+        "083",
+        "084",
+        "087",
+        "089",
+        "091",
+        "092",
+        "093",
+        "095",
+        "096",
+        "098",
+        "100",
+        "101",
+        "102",
+        "103",
+        "104",
+        "107",
+        "109",
+        "110",
+        "111",
+        "112"
+      ]
+    },
+    {
+      "path": "knowledge/canon/reference/day-3-capability-boundaries.md",
+      "title": "Day 3 capability and evidence boundaries",
+      "kind": "canon",
+      "words": 813,
+      "category": "reference",
+      "clips": [
+        "113",
+        "126",
+        "130",
+        "132",
+        "134",
+        "136",
+        "137",
+        "139",
+        "140",
+        "142",
+        "143",
+        "144",
+        "145",
+        "147",
+        "149",
+        "150",
+        "151",
+        "152",
+        "153",
+        "154",
+        "155",
+        "157"
+      ]
+    },
+    {
+      "path": "knowledge/canon/reference/email-draft-modal.md",
+      "title": "Email draft modal",
+      "kind": "canon",
+      "words": 56,
+      "category": "reference",
+      "clips": [
+        "07"
+      ]
+    },
+    {
+      "path": "knowledge/canon/reference/engineering-bot-roster.md",
+      "title": "Engineering-block bot roster (Day 1 live company)",
+      "kind": "canon",
+      "words": 282,
+      "category": "reference",
+      "clips": [
+        "10",
+        "18",
+        "019",
+        "022"
+      ]
+    },
+    {
+      "path": "knowledge/canon/reference/flylo-engineering-fleet.md",
+      "title": "FlyLo Engineering Fleet (reference)",
+      "kind": "canon",
+      "words": 716,
+      "category": "reference",
+      "clips": [
+        "025",
+        "026"
+      ]
+    },
+    {
+      "path": "knowledge/canon/reference/secrets-and-1password.md",
+      "title": "Secrets and 1Password",
+      "kind": "canon",
+      "words": 99,
+      "category": "reference",
+      "clips": [
+        "09"
+      ]
+    },
+    {
+      "path": "knowledge/canon/reference/ship-by-thursday-day-1-decisions.md",
+      "title": "Ship by Thursday: Day 1 decision history",
+      "kind": "canon",
+      "words": 418,
+      "category": "reference",
+      "clips": [
+        "020",
+        "022",
+        "028",
+        "029",
+        "030",
+        "042",
+        "043",
+        "044",
+        "045",
+        "046",
+        "047",
+        "053",
+        "054",
+        "062",
+        "063",
+        "064"
+      ]
+    },
+    {
+      "path": "knowledge/canon/reference/stripe-link-card.md",
+      "title": "Bot credit card (Stripe / Link)",
+      "kind": "canon",
+      "words": 99,
+      "category": "reference",
+      "clips": [
+        "02",
+        "147"
+      ]
+    },
+    {
+      "path": "knowledge/canon/reference/ui-anatomy.md",
+      "title": "UI anatomy (Grok Bot)",
+      "kind": "canon",
+      "words": 277,
+      "category": "reference",
+      "clips": [
+        "04"
+      ]
+    },
+    {
+      "path": "knowledge/canon/tutorials/meet-the-101-team.md",
+      "title": "Meet the 101 demo team",
+      "kind": "canon",
+      "words": 79,
+      "category": "tutorials",
+      "clips": [
+        "04"
+      ]
+    },
+    {
+      "path": "knowledge/session/agenda.md",
+      "title": "Agenda and recording map",
+      "kind": "session",
+      "words": 349,
+      "clips": [
+        "01",
+        "03",
+        "04",
+        "09",
+        "10",
+        "029",
+        "030",
+        "042",
+        "043",
+        "047",
+        "048",
+        "051",
+        "052",
+        "064",
+        "065",
+        "085",
+        "086",
+        "095",
+        "096",
+        "107",
+        "108",
+        "112",
+        "113",
+        "134",
+        "135",
+        "140",
+        "141",
+        "157"
+      ]
+    },
+    {
+      "path": "knowledge/session/contest.md",
+      "title": "Historical livestream challenge",
+      "kind": "session",
+      "words": 221,
+      "clips": [
+        "01",
+        "09",
+        "119",
+        "155",
+        "157"
+      ]
+    },
+    {
+      "path": "knowledge/session/day-3-outcomes.md",
+      "title": "Day 3 outcomes and remaining limits",
+      "kind": "session",
+      "words": 596,
+      "clips": [
+        "122",
+        "126",
+        "127",
+        "134",
+        "136",
+        "137",
+        "149",
+        "150",
+        "152",
+        "153",
+        "156",
+        "157"
+      ]
+    },
+    {
+      "path": "knowledge/session/gaps.md",
+      "title": "Coverage gaps",
+      "kind": "session",
+      "words": 902,
+      "clips": [
+        "022",
+        "043",
+        "044",
+        "067",
+        "074",
+        "093",
+        "104",
+        "118",
+        "119",
+        "157"
+      ]
+    },
+    {
+      "path": "knowledge/session/guest-advice-cody-sanchez.md",
+      "title": "Guest playbook: Cody Sanchez (clips 019–021)",
+      "kind": "session",
+      "words": 600,
+      "clips": []
+    },
+    {
+      "path": "knowledge/session/q-and-a.md",
+      "title": "Q&A captured on stream (Grok Bot 101)",
+      "kind": "session",
+      "words": 154,
+      "clips": []
+    },
+    {
+      "path": "knowledge/session/speakers.md",
+      "title": "Speakers and attribution",
+      "kind": "session",
+      "words": 436,
+      "clips": [
+        "047",
+        "048",
+        "051",
+        "057",
+        "061",
+        "067",
+        "073",
+        "080",
+        "081",
+        "086",
+        "089",
+        "096",
+        "103",
+        "108",
+        "112",
+        "113",
+        "119",
+        "128",
+        "130",
+        "135",
+        "140",
+        "144",
+        "147",
+        "148",
+        "152",
+        "157"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/01.md",
+      "title": "Clip 01",
+      "kind": "timelines",
+      "words": 1804,
+      "clip": "01",
+      "day": "2026-09-15",
+      "module": "bienvenida",
+      "duration": "00:10:00",
+      "speakers": [
+        "Matt Palmer",
+        "Roshan",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/019.md",
+      "title": "Clip 019",
+      "kind": "timelines",
+      "words": 2274,
+      "clip": "019",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Cody",
+        "Hosts"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/02.md",
+      "title": "Clip 02",
+      "kind": "timelines",
+      "words": 1897,
+      "clip": "02",
+      "day": "2026-09-15",
+      "module": "bienvenida",
+      "duration": "00:10:00",
+      "speakers": [
+        "Matt Palmer",
+        "Roshan",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/020.md",
+      "title": "Clip 020",
+      "kind": "timelines",
+      "words": 2465,
+      "clip": "020",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Cody",
+        "Matt",
+        "Hosts"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/021.md",
+      "title": "Clip 021",
+      "kind": "timelines",
+      "words": 1326,
+      "clip": "021",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:04:55",
+      "speakers": [
+        "Cody Sanchez",
+        "Hosts"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/022.md",
+      "title": "Clip 022",
+      "kind": "timelines",
+      "words": 2415,
+      "clip": "022",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren",
+        "Lingxi Li"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/023.md",
+      "title": "Clip 023",
+      "kind": "timelines",
+      "words": 2067,
+      "clip": "023",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lingxi Li"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/024.md",
+      "title": "Clip 024",
+      "kind": "timelines",
+      "words": 2447,
+      "clip": "024",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lingxi Li"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/025.md",
+      "title": "Clip 025",
+      "kind": "timelines",
+      "words": 2704,
+      "clip": "025",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lingxi Li"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/026.md",
+      "title": "Clip 026",
+      "kind": "timelines",
+      "words": 2852,
+      "clip": "026",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lingxi Li"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/027.md",
+      "title": "Clip 027",
+      "kind": "timelines",
+      "words": 2625,
+      "clip": "027",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lingxi Li",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/028.md",
+      "title": "Clip 028",
+      "kind": "timelines",
+      "words": 2384,
+      "clip": "028",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/029.md",
+      "title": "Clip 029",
+      "kind": "timelines",
+      "words": 1927,
+      "clip": "029",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/03.md",
+      "title": "Clip 03",
+      "kind": "timelines",
+      "words": 2261,
+      "clip": "03",
+      "day": "2026-09-15",
+      "module": "bienvenida-to-101",
+      "duration": "00:10:00",
+      "speakers": [
+        "Matt Palmer",
+        "Roshan",
+        "Lauren",
+        "Roman",
+        "Amrita"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/030.md",
+      "title": "Clip 030",
+      "kind": "timelines",
+      "words": 292,
+      "clip": "030",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/031.md",
+      "title": "Clip 031",
+      "kind": "timelines",
+      "words": 212,
+      "clip": "031",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:33",
+      "speakers": [
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/032.md",
+      "title": "Clip 032",
+      "kind": "timelines",
+      "words": 197,
+      "clip": "032",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/033.md",
+      "title": "Clip 033",
+      "kind": "timelines",
+      "words": 243,
+      "clip": "033",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Cody Sanchez",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/034.md",
+      "title": "Clip 034",
+      "kind": "timelines",
+      "words": 410,
+      "clip": "034",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:08:54",
+      "speakers": [
+        "Cody Sanchez",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/035.md",
+      "title": "Clip 035",
+      "kind": "timelines",
+      "words": 220,
+      "clip": "035",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren",
+        "Lingxi Li"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/036.md",
+      "title": "Clip 036",
+      "kind": "timelines",
+      "words": 180,
+      "clip": "036",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lingxi Li"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/037.md",
+      "title": "Clip 037",
+      "kind": "timelines",
+      "words": 161,
+      "clip": "037",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lingxi Li"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/038.md",
+      "title": "Clip 038",
+      "kind": "timelines",
+      "words": 183,
+      "clip": "038",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:35",
+      "speakers": [
+        "Lingxi Li"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/039.md",
+      "title": "Clip 039",
+      "kind": "timelines",
+      "words": 202,
+      "clip": "039",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:08:40",
+      "speakers": [
+        "Lingxi Li",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/04.md",
+      "title": "Clip 04",
+      "kind": "timelines",
+      "words": 2144,
+      "clip": "04",
+      "day": "2026-09-15",
+      "module": "grok-bot-101",
+      "duration": "00:09:35",
+      "speakers": [
+        "Roman",
+        "Amrita"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/040.md",
+      "title": "Clip 040",
+      "kind": "timelines",
+      "words": 204,
+      "clip": "040",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:54",
+      "speakers": [
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/041.md",
+      "title": "Clip 041",
+      "kind": "timelines",
+      "words": 202,
+      "clip": "041",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:55",
+      "speakers": [
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/042.md",
+      "title": "Clip 042",
+      "kind": "timelines",
+      "words": 152,
+      "clip": "042",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/043.md",
+      "title": "Clip 043",
+      "kind": "timelines",
+      "words": 2066,
+      "clip": "043",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:54",
+      "speakers": [
+        "Lauren",
+        "Matt"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/044.md",
+      "title": "Clip 044",
+      "kind": "timelines",
+      "words": 1752,
+      "clip": "044",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:58",
+      "speakers": [
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/045.md",
+      "title": "Clip 045",
+      "kind": "timelines",
+      "words": 2070,
+      "clip": "045",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/046.md",
+      "title": "Clip 046",
+      "kind": "timelines",
+      "words": 1959,
+      "clip": "046",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:57",
+      "speakers": [
+        "Matt",
+        "Lauren",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/047.md",
+      "title": "Clip 047",
+      "kind": "timelines",
+      "words": 1720,
+      "clip": "047",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:49",
+      "speakers": [
+        "Matt",
+        "Lauren",
+        "Kevin DiParco",
+        "Roshan Sadanani"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/048.md",
+      "title": "Clip 048",
+      "kind": "timelines",
+      "words": 2498,
+      "clip": "048",
+      "day": "2026-09-15",
+      "module": "product-managers",
+      "duration": "00:09:27",
+      "speakers": [
+        "Roshan",
+        "Kevin"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/049.md",
+      "title": "Clip 049",
+      "kind": "timelines",
+      "words": 2600,
+      "clip": "049",
+      "day": "2026-09-15",
+      "module": "product-managers",
+      "duration": "00:09:14",
+      "speakers": [
+        "Roshan",
+        "Kevin"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/05.md",
+      "title": "Clip 05",
+      "kind": "timelines",
+      "words": 2502,
+      "clip": "05",
+      "day": "2026-09-15",
+      "module": "grok-bot-101",
+      "duration": "00:10:00",
+      "speakers": [
+        "Amrita"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/050.md",
+      "title": "Clip 050",
+      "kind": "timelines",
+      "words": 2421,
+      "clip": "050",
+      "day": "2026-09-15",
+      "module": "product-managers",
+      "duration": "00:09:59",
+      "speakers": [
+        "Roshan",
+        "Kevin"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/051.md",
+      "title": "Clip 051",
+      "kind": "timelines",
+      "words": 896,
+      "clip": "051",
+      "day": "2026-09-15",
+      "module": "product-managers",
+      "duration": "00:06:10",
+      "speakers": [
+        "Kevin",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/052.md",
+      "title": "Clip 052",
+      "kind": "timelines",
+      "words": 1996,
+      "clip": "052",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:09:57",
+      "speakers": [
+        "Matt",
+        "Lauren",
+        "Eric"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/053.md",
+      "title": "Clip 053",
+      "kind": "timelines",
+      "words": 1847,
+      "clip": "053",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren",
+        "Eric"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/054.md",
+      "title": "Clip 054",
+      "kind": "timelines",
+      "words": 2014,
+      "clip": "054",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren",
+        "Eric",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/055.md",
+      "title": "Clip 055",
+      "kind": "timelines",
+      "words": 1921,
+      "clip": "055",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Eric",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/056.md",
+      "title": "Clip 056",
+      "kind": "timelines",
+      "words": 1444,
+      "clip": "056",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Eric",
+        "Shubh"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/057.md",
+      "title": "Clip 057",
+      "kind": "timelines",
+      "words": 1421,
+      "clip": "057",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:09:59",
+      "speakers": [
+        "Shubh"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/058.md",
+      "title": "Clip 058",
+      "kind": "timelines",
+      "words": 1453,
+      "clip": "058",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:09:59",
+      "speakers": [
+        "Shubh"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/059.md",
+      "title": "Clip 059",
+      "kind": "timelines",
+      "words": 1358,
+      "clip": "059",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:09:59",
+      "speakers": [
+        "Shubh"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/06.md",
+      "title": "Clip 06",
+      "kind": "timelines",
+      "words": 2199,
+      "clip": "06",
+      "day": "2026-09-15",
+      "module": "grok-bot-101",
+      "duration": "00:09:59",
+      "speakers": [
+        "Amrita"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/060.md",
+      "title": "Clip 060",
+      "kind": "timelines",
+      "words": 1273,
+      "clip": "060",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:09:59",
+      "speakers": [
+        "Shubh"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/061.md",
+      "title": "Clip 061",
+      "kind": "timelines",
+      "words": 1090,
+      "clip": "061",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:09:56",
+      "speakers": [
+        "Shubh",
+        "Jenny",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/062.md",
+      "title": "Clip 062",
+      "kind": "timelines",
+      "words": 1200,
+      "clip": "062",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:09:55",
+      "speakers": [
+        "Jenny",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/063.md",
+      "title": "Clip 063",
+      "kind": "timelines",
+      "words": 1272,
+      "clip": "063",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:09:59",
+      "speakers": [
+        "Jenny",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/064.md",
+      "title": "Clip 064",
+      "kind": "timelines",
+      "words": 426,
+      "clip": "064",
+      "day": "2026-09-15",
+      "module": "founders",
+      "duration": "00:01:45",
+      "speakers": [
+        "Hosts"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/065.md",
+      "title": "Clip 065",
+      "kind": "timelines",
+      "words": 1311,
+      "clip": "065",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Roshan",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/066.md",
+      "title": "Clip 066",
+      "kind": "timelines",
+      "words": 1272,
+      "clip": "066",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:58",
+      "speakers": [
+        "Matt",
+        "Roshan",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/067.md",
+      "title": "Clip 067",
+      "kind": "timelines",
+      "words": 967,
+      "clip": "067",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:27",
+      "speakers": [
+        "Amrita"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/068.md",
+      "title": "Clip 068",
+      "kind": "timelines",
+      "words": 1123,
+      "clip": "068",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:43",
+      "speakers": [
+        "Amrita"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/069.md",
+      "title": "Clip 069",
+      "kind": "timelines",
+      "words": 3084,
+      "clip": "069",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Amrita"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/07.md",
+      "title": "Clip 07",
+      "kind": "timelines",
+      "words": 2332,
+      "clip": "07",
+      "day": "2026-09-15",
+      "module": "grok-bot-101",
+      "duration": "00:09:59",
+      "speakers": [
+        "Amrita"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/070.md",
+      "title": "Clip 070",
+      "kind": "timelines",
+      "words": 3265,
+      "clip": "070",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Amrita"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/071.md",
+      "title": "Clip 071",
+      "kind": "timelines",
+      "words": 2598,
+      "clip": "071",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:36",
+      "speakers": [
+        "Amrita",
+        "Audience"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/072.md",
+      "title": "Clip 072",
+      "kind": "timelines",
+      "words": 3781,
+      "clip": "072",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:08:33",
+      "speakers": [
+        "Amrita",
+        "Matt",
+        "Lauren",
+        "Audience"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/073.md",
+      "title": "Clip 073",
+      "kind": "timelines",
+      "words": 3388,
+      "clip": "073",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/074.md",
+      "title": "Clip 074",
+      "kind": "timelines",
+      "words": 175,
+      "clip": "074",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:01:05",
+      "speakers": [
+        "Matt",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/075.md",
+      "title": "Clip 075",
+      "kind": "timelines",
+      "words": 1672,
+      "clip": "075",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lauren",
+        "Host"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/076.md",
+      "title": "Clip 076",
+      "kind": "timelines",
+      "words": 1255,
+      "clip": "076",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lauren",
+        "Host"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/077.md",
+      "title": "Clip 077",
+      "kind": "timelines",
+      "words": 1248,
+      "clip": "077",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lauren",
+        "Matt",
+        "Host",
+        "Marcel"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/078.md",
+      "title": "Clip 078",
+      "kind": "timelines",
+      "words": 1065,
+      "clip": "078",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lauren",
+        "Host"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/079.md",
+      "title": "Clip 079",
+      "kind": "timelines",
+      "words": 1047,
+      "clip": "079",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Host",
+        "Karen X. Cheng"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/08.md",
+      "title": "Clip 08",
+      "kind": "timelines",
+      "words": 1739,
+      "clip": "08",
+      "day": "2026-09-15",
+      "module": "grok-bot-101",
+      "duration": "00:09:59",
+      "speakers": [
+        "Amrita"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/080.md",
+      "title": "Clip 080",
+      "kind": "timelines",
+      "words": 2838,
+      "clip": "080",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Karen X. Cheng",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/081.md",
+      "title": "Clip 081",
+      "kind": "timelines",
+      "words": 1465,
+      "clip": "081",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:05:57",
+      "speakers": [
+        "Matt",
+        "Karen X. Cheng",
+        "Host"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/082.md",
+      "title": "Clip 082",
+      "kind": "timelines",
+      "words": 3012,
+      "clip": "082",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/083.md",
+      "title": "Clip 083",
+      "kind": "timelines",
+      "words": 3000,
+      "clip": "083",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:58",
+      "speakers": [
+        "Matt",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/084.md",
+      "title": "Clip 084",
+      "kind": "timelines",
+      "words": 3155,
+      "clip": "084",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Roshan",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/085.md",
+      "title": "Clip 085",
+      "kind": "timelines",
+      "words": 3131,
+      "clip": "085",
+      "day": "2026-09-16",
+      "module": "sales-engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/086.md",
+      "title": "Clip 086",
+      "kind": "timelines",
+      "words": 2587,
+      "clip": "086",
+      "day": "2026-09-16",
+      "module": "sales",
+      "duration": "00:09:32",
+      "speakers": [
+        "Matt",
+        "Roshan",
+        "Krista Letz",
+        "Mark Wright"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/087.md",
+      "title": "Clip 087",
+      "kind": "timelines",
+      "words": 1964,
+      "clip": "087",
+      "day": "2026-09-16",
+      "module": "sales",
+      "duration": "00:09:59",
+      "speakers": [
+        "Mark Wright",
+        "Chris"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/088.md",
+      "title": "Clip 088",
+      "kind": "timelines",
+      "words": 1588,
+      "clip": "088",
+      "day": "2026-09-16",
+      "module": "sales",
+      "duration": "00:09:59",
+      "speakers": [
+        "Mark Wright",
+        "Chris"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/089.md",
+      "title": "Clip 089",
+      "kind": "timelines",
+      "words": 1102,
+      "clip": "089",
+      "day": "2026-09-16",
+      "module": "sales",
+      "duration": "00:07:23",
+      "speakers": [
+        "Mark Wright",
+        "Chris"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/09.md",
+      "title": "Clip 09",
+      "kind": "timelines",
+      "words": 1875,
+      "clip": "09",
+      "day": "2026-09-15",
+      "module": "grok-bot-101",
+      "duration": "00:07:28",
+      "speakers": [
+        "Amrita"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/090.md",
+      "title": "Clip 090",
+      "kind": "timelines",
+      "words": 705,
+      "clip": "090",
+      "day": "2026-09-16",
+      "module": "sales",
+      "duration": "00:09:59",
+      "speakers": [
+        "Mark Wright",
+        "Chris"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/091.md",
+      "title": "Clip 091",
+      "kind": "timelines",
+      "words": 1167,
+      "clip": "091",
+      "day": "2026-09-16",
+      "module": "sales",
+      "duration": "00:09:37",
+      "speakers": [
+        "Matt",
+        "Guest"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/092.md",
+      "title": "Clip 092",
+      "kind": "timelines",
+      "words": 1173,
+      "clip": "092",
+      "day": "2026-09-16",
+      "module": "sales",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Guest"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/093.md",
+      "title": "Clip 093",
+      "kind": "timelines",
+      "words": 819,
+      "clip": "093",
+      "day": "2026-09-16",
+      "module": "sales",
+      "duration": "00:03:00",
+      "speakers": [
+        "Presenter"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/094.md",
+      "title": "Clip 094",
+      "kind": "timelines",
+      "words": 1833,
+      "clip": "094",
+      "day": "2026-09-16",
+      "module": "sales",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Tim",
+        "Shardul"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/095.md",
+      "title": "Clip 095",
+      "kind": "timelines",
+      "words": 1498,
+      "clip": "095",
+      "day": "2026-09-16",
+      "module": "sales",
+      "duration": "00:09:58",
+      "speakers": [
+        "Matt",
+        "Tim",
+        "Shardul"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/096.md",
+      "title": "Clip 096",
+      "kind": "timelines",
+      "words": 1588,
+      "clip": "096",
+      "day": "2026-09-16",
+      "module": "sdrs",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Tim",
+        "Shardul"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/097.md",
+      "title": "Clip 097",
+      "kind": "timelines",
+      "words": 1660,
+      "clip": "097",
+      "day": "2026-09-16",
+      "module": "sdrs",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Tim",
+        "Shardul"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/098.md",
+      "title": "Clip 098",
+      "kind": "timelines",
+      "words": 1713,
+      "clip": "098",
+      "day": "2026-09-16",
+      "module": "sdrs",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Tim",
+        "Shardul",
+        "Simon"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/099.md",
+      "title": "Clip 099",
+      "kind": "timelines",
+      "words": 1794,
+      "clip": "099",
+      "day": "2026-09-16",
+      "module": "sdrs",
+      "duration": "00:09:59",
+      "speakers": [
+        "Simon Lackowski"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/10.md",
+      "title": "Clip 10",
+      "kind": "timelines",
+      "words": 1819,
+      "clip": "10",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lauren",
+        "Amrita",
+        "Roman",
+        "Peter Yang",
+        "Roshan",
+        "Matt",
+        "Kevin",
+        "Shubh"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/100.md",
+      "title": "Clip 100",
+      "kind": "timelines",
+      "words": 3283,
+      "clip": "100",
+      "day": "2026-09-16",
+      "module": "sdrs",
+      "duration": "00:09:59",
+      "speakers": [
+        "Simon Lackowski"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/101.md",
+      "title": "Clip 101",
+      "kind": "timelines",
+      "words": 2685,
+      "clip": "101",
+      "day": "2026-09-16",
+      "module": "sdrs",
+      "duration": "00:09:59",
+      "speakers": [
+        "Simon Lackowski",
+        "Audience"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/102.md",
+      "title": "Clip 102",
+      "kind": "timelines",
+      "words": 2985,
+      "clip": "102",
+      "day": "2026-09-16",
+      "module": "sdrs",
+      "duration": "00:09:59",
+      "speakers": [
+        "Simon Lackowski",
+        "Audience",
+        "Matt",
+        "Lauren",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/103.md",
+      "title": "Clip 103",
+      "kind": "timelines",
+      "words": 2981,
+      "clip": "103",
+      "day": "2026-09-16",
+      "module": "sdrs",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Roshan",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/104.md",
+      "title": "Clip 104",
+      "kind": "timelines",
+      "words": 3259,
+      "clip": "104",
+      "day": "2026-09-16",
+      "module": "sdrs",
+      "duration": "00:09:58",
+      "speakers": [
+        "Matt",
+        "Roshan",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/105.md",
+      "title": "Clip 105",
+      "kind": "timelines",
+      "words": 1979,
+      "clip": "105",
+      "day": "2026-09-16",
+      "module": "sdrs",
+      "duration": "00:09:54",
+      "speakers": [
+        "Lauren",
+        "Matt",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/106.md",
+      "title": "Clip 106",
+      "kind": "timelines",
+      "words": 1580,
+      "clip": "106",
+      "day": "2026-09-16",
+      "module": "sdrs",
+      "duration": "00:09:59",
+      "speakers": [
+        "Roshan",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/107.md",
+      "title": "Clip 107",
+      "kind": "timelines",
+      "words": 1379,
+      "clip": "107",
+      "day": "2026-09-16",
+      "module": "sdrs",
+      "duration": "00:05:42",
+      "speakers": [
+        "Roshan",
+        "Matt",
+        "Lauren",
+        "David"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/108.md",
+      "title": "Clip 108",
+      "kind": "timelines",
+      "words": 1361,
+      "clip": "108",
+      "day": "2026-09-16",
+      "module": "customer-support",
+      "duration": "00:09:52",
+      "speakers": [
+        "David"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/109.md",
+      "title": "Clip 109",
+      "kind": "timelines",
+      "words": 2076,
+      "clip": "109",
+      "day": "2026-09-16",
+      "module": "customer-support",
+      "duration": "00:09:59",
+      "speakers": [
+        "David"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/11.md",
+      "title": "Clip 11",
+      "kind": "timelines",
+      "words": 1559,
+      "clip": "11",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lauren",
+        "Peter Yang",
+        "Roshan",
+        "Matt"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/110.md",
+      "title": "Clip 110",
+      "kind": "timelines",
+      "words": 1779,
+      "clip": "110",
+      "day": "2026-09-16",
+      "module": "customer-support",
+      "duration": "00:09:59",
+      "speakers": [
+        "David",
+        "Audience"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/111.md",
+      "title": "Clip 111",
+      "kind": "timelines",
+      "words": 708,
+      "clip": "111",
+      "day": "2026-09-16",
+      "module": "customer-support",
+      "duration": "00:03:36",
+      "speakers": [
+        "David",
+        "Audience"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/112.md",
+      "title": "Clip 112",
+      "kind": "timelines",
+      "words": 2466,
+      "clip": "112",
+      "day": "2026-09-16",
+      "module": "customer-support",
+      "duration": "00:09:34",
+      "speakers": [
+        "Matt",
+        "Roshan",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/113.md",
+      "title": "Clip 113",
+      "kind": "timelines",
+      "words": 1737,
+      "clip": "113",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/114.md",
+      "title": "Clip 114",
+      "kind": "timelines",
+      "words": 1524,
+      "clip": "114",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:08:53",
+      "speakers": [
+        "Matt",
+        "Lauren",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/115.md",
+      "title": "Clip 115",
+      "kind": "timelines",
+      "words": 1324,
+      "clip": "115",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matthew Silberman"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/116.md",
+      "title": "Clip 116",
+      "kind": "timelines",
+      "words": 1515,
+      "clip": "116",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matthew Silberman"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/117.md",
+      "title": "Clip 117",
+      "kind": "timelines",
+      "words": 2056,
+      "clip": "117",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:58",
+      "speakers": [
+        "Matthew Silberman",
+        "Audience"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/118.md",
+      "title": "Clip 118",
+      "kind": "timelines",
+      "words": 95,
+      "clip": "118",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:00:03",
+      "speakers": [
+        "Matthew Silberman",
+        "Audience"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/119.md",
+      "title": "Clip 119",
+      "kind": "timelines",
+      "words": 1297,
+      "clip": "119",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:09",
+      "speakers": [
+        "Matthew Silberman",
+        "Audience"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/12.md",
+      "title": "Clip 12",
+      "kind": "timelines",
+      "words": 2122,
+      "clip": "12",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:10:00",
+      "speakers": [
+        "Lauren",
+        "Peter Yang",
+        "Roshan",
+        "Matt"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/120.md",
+      "title": "Clip 120",
+      "kind": "timelines",
+      "words": 2602,
+      "clip": "120",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:59",
+      "speakers": [
+        "Roshan",
+        "Matt"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/121.md",
+      "title": "Clip 121",
+      "kind": "timelines",
+      "words": 2912,
+      "clip": "121",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:58",
+      "speakers": [
+        "Roshan",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/122.md",
+      "title": "Clip 122",
+      "kind": "timelines",
+      "words": 3019,
+      "clip": "122",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:59",
+      "speakers": [
+        "Roshan",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/123.md",
+      "title": "Clip 123",
+      "kind": "timelines",
+      "words": 3056,
+      "clip": "123",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:59",
+      "speakers": [
+        "Roshan",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/124.md",
+      "title": "Clip 124",
+      "kind": "timelines",
+      "words": 2566,
+      "clip": "124",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:59",
+      "speakers": [
+        "Roshan",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/125.md",
+      "title": "Clip 125",
+      "kind": "timelines",
+      "words": 2455,
+      "clip": "125",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:59",
+      "speakers": [
+        "Roshan",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/126.md",
+      "title": "Clip 126",
+      "kind": "timelines",
+      "words": 2230,
+      "clip": "126",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:59",
+      "speakers": [
+        "Roshan",
+        "Matt",
+        "Lauren"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/127.md",
+      "title": "Clip 127",
+      "kind": "timelines",
+      "words": 1244,
+      "clip": "127",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:04:44",
+      "speakers": [
+        "Roshan",
+        "Matt",
+        "Kal De"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/128.md",
+      "title": "Clip 128",
+      "kind": "timelines",
+      "words": 2931,
+      "clip": "128",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:54",
+      "speakers": [
+        "Roshan",
+        "Vincent Zhu",
+        "Matt"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/129.md",
+      "title": "Clip 129",
+      "kind": "timelines",
+      "words": 2147,
+      "clip": "129",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:59",
+      "speakers": [
+        "Roshan",
+        "Vincent Zhu"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/13.md",
+      "title": "Clip 13",
+      "kind": "timelines",
+      "words": 1707,
+      "clip": "13",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lauren",
+        "Peter Yang",
+        "Roshan",
+        "Matt"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/130.md",
+      "title": "Clip 130",
+      "kind": "timelines",
+      "words": 1717,
+      "clip": "130",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:59",
+      "speakers": [
+        "Roshan",
+        "Vincent Zhu"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/131.md",
+      "title": "Clip 131",
+      "kind": "timelines",
+      "words": 1854,
+      "clip": "131",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:51",
+      "speakers": [
+        "Roshan",
+        "Matthew Silberman"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/132.md",
+      "title": "Clip 132",
+      "kind": "timelines",
+      "words": 2160,
+      "clip": "132",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:58",
+      "speakers": [
+        "Roshan",
+        "Matthew Silberman"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/133.md",
+      "title": "Clip 133",
+      "kind": "timelines",
+      "words": 2142,
+      "clip": "133",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:09:59",
+      "speakers": [
+        "Roshan",
+        "Matthew Silberman"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/134.md",
+      "title": "Clip 134",
+      "kind": "timelines",
+      "words": 994,
+      "clip": "134",
+      "day": "2026-09-17",
+      "module": "marketing-operations",
+      "duration": "00:04:05",
+      "speakers": [
+        "Roshan",
+        "Matthew Silberman",
+        "Blake Schuller"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/135.md",
+      "title": "Clip 135",
+      "kind": "timelines",
+      "words": 1544,
+      "clip": "135",
+      "day": "2026-09-17",
+      "module": "post-sales",
+      "duration": "00:09:59",
+      "speakers": [
+        "Blake Schuller"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/136.md",
+      "title": "Clip 136",
+      "kind": "timelines",
+      "words": 2323,
+      "clip": "136",
+      "day": "2026-09-17",
+      "module": "post-sales",
+      "duration": "00:09:54",
+      "speakers": [
+        "Blake Schuller"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/137.md",
+      "title": "Clip 137",
+      "kind": "timelines",
+      "words": 1360,
+      "clip": "137",
+      "day": "2026-09-17",
+      "module": "post-sales",
+      "duration": "00:04:21",
+      "speakers": [
+        "Blake Schuller"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/138.md",
+      "title": "Clip 138",
+      "kind": "timelines",
+      "words": 1935,
+      "clip": "138",
+      "day": "2026-09-17",
+      "module": "post-sales",
+      "duration": "00:09:59",
+      "speakers": [
+        "Blake Schuller",
+        "audiencia Q&A"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/139.md",
+      "title": "Clip 139",
+      "kind": "timelines",
+      "words": 1718,
+      "clip": "139",
+      "day": "2026-09-17",
+      "module": "post-sales",
+      "duration": "00:09:59",
+      "speakers": [
+        "Blake Schuller",
+        "audiencia Q&A"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/14.md",
+      "title": "Clip 14",
+      "kind": "timelines",
+      "words": 2096,
+      "clip": "14",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lauren",
+        "Matt",
+        "Peter"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/140.md",
+      "title": "Clip 140",
+      "kind": "timelines",
+      "words": 945,
+      "clip": "140",
+      "day": "2026-09-17",
+      "module": "post-sales",
+      "duration": "00:04:24",
+      "speakers": [
+        "Blake Schuller",
+        "audiencia Q&A"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/141.md",
+      "title": "Clip 141",
+      "kind": "timelines",
+      "words": 1833,
+      "clip": "141",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:59",
+      "speakers": [
+        "Matt",
+        "Lauren",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/142.md",
+      "title": "Clip 142",
+      "kind": "timelines",
+      "words": 2083,
+      "clip": "142",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:58",
+      "speakers": [
+        "Matt",
+        "Lauren",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/143.md",
+      "title": "Clip 143",
+      "kind": "timelines",
+      "words": 2152,
+      "clip": "143",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:46",
+      "speakers": [
+        "Roshan",
+        "Matt Palmer"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/144.md",
+      "title": "Clip 144",
+      "kind": "timelines",
+      "words": 2467,
+      "clip": "144",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:58",
+      "speakers": [
+        "Roshan",
+        "Matt Palmer",
+        "Dan Hill"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/145.md",
+      "title": "Clip 145",
+      "kind": "timelines",
+      "words": 2275,
+      "clip": "145",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:58",
+      "speakers": [
+        "Roshan",
+        "Dan Hill"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/146.md",
+      "title": "Clip 146",
+      "kind": "timelines",
+      "words": 1880,
+      "clip": "146",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:08:33",
+      "speakers": [
+        "Roshan",
+        "Dan Hill"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/147.md",
+      "title": "Clip 147",
+      "kind": "timelines",
+      "words": 2153,
+      "clip": "147",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:56",
+      "speakers": [
+        "Roshan",
+        "Dan Hill",
+        "Josh Kim"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/148.md",
+      "title": "Clip 148",
+      "kind": "timelines",
+      "words": 1961,
+      "clip": "148",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:56",
+      "speakers": [
+        "Josh Kim"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/149.md",
+      "title": "Clip 149",
+      "kind": "timelines",
+      "words": 1657,
+      "clip": "149",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:58",
+      "speakers": [
+        "Josh Kim"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/15.md",
+      "title": "Clip 15",
+      "kind": "timelines",
+      "words": 2312,
+      "clip": "15",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:10:00",
+      "speakers": [
+        "Lauren",
+        "Matt",
+        "Roshan",
+        "Peter"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/150.md",
+      "title": "Clip 150",
+      "kind": "timelines",
+      "words": 1683,
+      "clip": "150",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:58",
+      "speakers": [
+        "Josh Kim"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/151.md",
+      "title": "Clip 151",
+      "kind": "timelines",
+      "words": 1521,
+      "clip": "151",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:36",
+      "speakers": [
+        "Josh Kim",
+        "Audience"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/152.md",
+      "title": "Clip 152",
+      "kind": "timelines",
+      "words": 2116,
+      "clip": "152",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:58",
+      "speakers": [
+        "Josh Kim",
+        "Roshan",
+        "Eric",
+        "Matt Palmer"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/153.md",
+      "title": "Clip 153",
+      "kind": "timelines",
+      "words": 932,
+      "clip": "153",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:07:40",
+      "speakers": [
+        "Roshan",
+        "Matt Palmer",
+        "Lauren Tan",
+        "Eric Zakariasson"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/154.md",
+      "title": "Clip 154",
+      "kind": "timelines",
+      "words": 947,
+      "clip": "154",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:07",
+      "speakers": [
+        "Matt Palmer",
+        "Lauren Tan",
+        "Roshan",
+        "Eric Zakariasson"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/155.md",
+      "title": "Clip 155",
+      "kind": "timelines",
+      "words": 1078,
+      "clip": "155",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:59",
+      "speakers": [
+        "Roshan",
+        "Matt Palmer",
+        "Lauren Tan",
+        "Eric Zakariasson"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/156.md",
+      "title": "Clip 156",
+      "kind": "timelines",
+      "words": 812,
+      "clip": "156",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:58",
+      "speakers": [
+        "Roshan",
+        "Matt Palmer",
+        "Lauren Tan",
+        "Eric Zakariasson"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/157.md",
+      "title": "Clip 157",
+      "kind": "timelines",
+      "words": 1032,
+      "clip": "157",
+      "day": "2026-09-17",
+      "module": "marketing",
+      "duration": "00:09:57",
+      "speakers": [
+        "Roshan",
+        "Matt Palmer",
+        "Lauren Tan",
+        "Eric Zakariasson"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/16.md",
+      "title": "Clip 16",
+      "kind": "timelines",
+      "words": 1587,
+      "clip": "16",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:06:37",
+      "speakers": [
+        "Lauren",
+        "Matt Palmer",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/17.md",
+      "title": "Clip 17",
+      "kind": "timelines",
+      "words": 1642,
+      "clip": "17",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:09:59",
+      "speakers": [
+        "Lauren",
+        "Matt",
+        "Roshan"
+      ]
+    },
+    {
+      "path": "knowledge/timelines/18.md",
+      "title": "Clip 18",
+      "kind": "timelines",
+      "words": 706,
+      "clip": "18",
+      "day": "2026-09-15",
+      "module": "engineering",
+      "duration": "00:02:50",
+      "speakers": [
+        "Lauren",
+        "Matt"
+      ]
+    }
+  ]
+}
