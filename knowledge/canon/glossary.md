@@ -68,3 +68,7 @@ The table above preserves Day 1 terminology. Architecture wording is not settled
 | Voice chat | Two-way bot call demonstrated on Day 3; distinct from earlier voice dictation and the xAI telephone agent | [152](../timelines/152.md), [154](../timelines/154.md) |
 | llms.txt / rules.md | Compact entrypoint and Markdown game rules shown for agent consumption | [155](../timelines/155.md) |
 | Done / merged / verified | Distinct completion claims that must be checked against their evidence | [153](../timelines/153.md), [157](../timelines/157.md) |
+| elite | Accelerator codebase franchises adapt; every PR must cite touched elite paths | [Galaxy cloud-programmer ops](how-to/run-galaxy-cloud-programmer-ops.md) |
+| HECHO | Done slice with proof on tip; ship HECHO-first before expanding scope | [Galaxy cloud-programmer ops](how-to/run-galaxy-cloud-programmer-ops.md) |
+| REVESTEX | Reset franchise overlay toward elite baseline; blocked without **ESTAMOS LISTOS** | [Galaxy cloud-programmer ops](how-to/run-galaxy-cloud-programmer-ops.md) |
+| ESTAMOS LISTOS | HQ readiness gate authorizing destructive REVESTEX or mass revert | [Galaxy cloud-programmer ops](how-to/run-galaxy-cloud-programmer-ops.md) |

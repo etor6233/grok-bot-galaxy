@@ -41,6 +41,7 @@ All product descriptions are event observations from **15–17 September 2026**,
 - [Research and scope a business before automating it](canon/how-to/research-and-scope-a-new-business.md)
 - [Delegate founder work to a persistent bot team](canon/how-to/run-a-founder-bot-team.md)
 - [Run support with a knowledge base and handoffs](canon/how-to/run-customer-support.md)
+- [Run Galaxy cloud-programmer ops (franchise build)](canon/how-to/run-galaxy-cloud-programmer-ops.md)
 - [Run a nightly code cleanup](canon/how-to/run-nightly-code-cleanup.md)
 - [Run a post-sales desk through one chief of staff](canon/how-to/run-post-sales-desk.md)
 - [Route RevOps requests from inbox to specialist](canon/how-to/run-revops-task-handoffs.md)
