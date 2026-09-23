@@ -44,7 +44,7 @@
       "path": "knowledge/canon/glossary.md",
       "title": "Glossary",
       "kind": "canon",
-      "words": 910,
+      "words": 980,
       "category": "reference",
       "clips": [
         "068",
@@ -384,6 +384,16 @@
         "109",
         "110",
         "111"
+      ]
+    },
+    {
+      "path": "knowledge/canon/how-to/run-galaxy-cloud-programmer-ops.md",
+      "title": "Run Galaxy cloud-programmer ops (franchise build)",
+      "kind": "canon",
+      "words": 607,
+      "category": "how-to",
+      "clips": [
+        "084"
       ]
     },
     {

@@ -35,6 +35,7 @@ Data Dan, Slide Sonya and Bake are demo personas, not required built-in roles.
 - Skills: knowledge/canon/how-to/teach-a-task.md
 - Approvals: knowledge/canon/how-to/approvals-and-rules.md
 - Team: knowledge/canon/how-to/operate-a-bot-team.md
+- Cloud programmers (franchise): knowledge/canon/how-to/run-galaxy-cloud-programmer-ops.md
 - Memory: knowledge/canon/how-to/steer-memory.md
 - Bot cost: knowledge/canon/how-to/reduce-bot-token-use.md
 - Verified engineering: knowledge/canon/how-to/build-and-maintain-verification.md

@@ -13,6 +13,7 @@ Read one row's first guide, then its evidence when needed. All examples are from
 | Team / equipo | [Operate a team](canon/how-to/operate-a-bot-team.md) | [Bot onboarding](canon/how-to/onboard-a-new-bot-bot-to-bot.md) |
 | Cost / consumo de tokens | [Reduce token use](canon/how-to/reduce-bot-token-use.md) | [Local search](../README.md#how-bots-consume-this-repository) |
 | Engineering / desarrollo | [Build verification](canon/how-to/build-and-maintain-verification.md) | [Feedback to fixes](canon/how-to/triage-feedback-and-verify-fixes.md) |
+| Cloud programmers / programadores cloud (franchise) | [Galaxy cloud-programmer ops](canon/how-to/run-galaxy-cloud-programmer-ops.md) | [FlyLo fleet](canon/reference/flylo-engineering-fleet.md), [Operate a team](canon/how-to/operate-a-bot-team.md) |
 | Product / producto | [Data to PRD](canon/how-to/turn-product-data-into-a-prd.md) | [CRM review tool](canon/how-to/build-crm-lead-review-tool.md) |
 | Founders / emprendedores | [Founder bot team](canon/how-to/run-a-founder-bot-team.md) | [Research and scope](canon/how-to/research-and-scope-a-new-business.md) |
 | Sales engineering / ingeniería de ventas | [Sales engineering](canon/how-to/run-sales-engineering.md) | [Day 2 boundaries](canon/reference/day-2-workflows.md) |
